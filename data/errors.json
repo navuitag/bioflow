@@ -1,0 +1,380 @@
+[
+  {
+    "pattern": "nem thu",
+    "skill": "g6_b02",
+    "errorType": "safety_error",
+    "title": "Nếm mẫu sinh vật",
+    "message": "Không nếm mẫu trong phòng thí nghiệm.",
+    "hint": "Quan sát và báo giáo viên.",
+    "recommendation": "g6_b02"
+  },
+  {
+    "pattern": "hien vi",
+    "skill": "g6_b03",
+    "errorType": "tool_error",
+    "title": "Nhầm kính lúp và hiển vi",
+    "message": "Kính hiển vi phóng đại mạnh hơn kính lúp.",
+    "hint": "Kính lúp quan sát vật nhỏ; hiển vi quan sát tế bào.",
+    "recommendation": "g6_b03"
+  },
+  {
+    "pattern": "lup",
+    "skill": "g6_b04",
+    "errorType": "tool_error",
+    "title": "Dùng kính lúp thay hiển vi",
+    "message": "Quan sát tế bào cần kính hiển vi và mẫu mỏng.",
+    "hint": "Làm mẫu trên lam kính.",
+    "recommendation": "g6_b04"
+  },
+  {
+    "pattern": "chi co protein",
+    "skill": "g6_b15",
+    "errorType": "nutrition_error",
+    "title": "Nhầm nhóm dinh dưỡng",
+    "message": "Gạo nhiều tinh bột, không phải chỉ protein.",
+    "hint": "Cân bằng các nhóm thực phẩm.",
+    "recommendation": "g6_b15"
+  },
+  {
+    "pattern": "khong co te bao",
+    "skill": "g6_b18",
+    "errorType": "cell_error",
+    "title": "Cho rằng virus có tế bào đầy đủ",
+    "message": "Virus không có cấu trúc tế bào hoàn chỉnh.",
+    "hint": "Mọi sinh vật sống đều có tế bào (virus là ngoại lệ đặc biệt).",
+    "recommendation": "g6_b18"
+  },
+  {
+    "pattern": "khong co nhan",
+    "skill": "g6_b19",
+    "errorType": "cell_error",
+    "title": "Nhầm cấu tạo tế bào",
+    "message": "Tế bào eukaryote có nhân.",
+    "hint": "Nhân chứa thông tin di truyền.",
+    "recommendation": "g6_b19"
+  },
+  {
+    "pattern": "te bao khong sinh san",
+    "skill": "g6_b20",
+    "errorType": "cell_error",
+    "title": "Nhầm lớn lên và sinh sản",
+    "message": "Tế bào sinh sản bằng phân chia.",
+    "hint": "Phân chia tạo tế bào con.",
+    "recommendation": "g6_b20"
+  },
+  {
+    "pattern": "co quan truoc mo",
+    "skill": "g6_b23",
+    "errorType": "organization_error",
+    "title": "Nhầm thứ tự tổ chức",
+    "message": "Thứ tự: tế bào → mô → cơ quan → cơ thể.",
+    "hint": "Mô gồm nhiều tế bào.",
+    "recommendation": "g6_b23"
+  },
+  {
+    "pattern": "virus la vi khuan",
+    "skill": "g6_b27",
+    "errorType": "microbe_error",
+    "title": "Nhầm virus và vi khuẩn",
+    "message": "Virus nhỏ hơn và cần tế bào chủ.",
+    "hint": "Vi khuẩn là tế bào sống.",
+    "recommendation": "g6_b27"
+  },
+  {
+    "pattern": "virus co te bao",
+    "skill": "g6_b29",
+    "errorType": "concept_error",
+    "title": "Nhầm virus và tế bào",
+    "message": "Virus không có cấu trúc tế bào đầy đủ.",
+    "hint": "Virus cần tế bào chủ để nhân lên.",
+    "recommendation": "g6_b29"
+  },
+  {
+    "pattern": "nam quang hop",
+    "skill": "g6_b32",
+    "errorType": "fungus_error",
+    "title": "Nhầm nấm và thực vật",
+    "message": "Nấm không quang hợp, hút chất hữu cơ.",
+    "hint": "Nấm là nhóm riêng.",
+    "recommendation": "g6_b32"
+  },
+  {
+    "pattern": "dong vat quang hop",
+    "skill": "g6_b34",
+    "errorType": "concept_error",
+    "title": "Nhầm thực vật và động vật",
+    "message": "Quang hợp là đặc trưng của thực vật.",
+    "hint": "Động vật không quang hợp.",
+    "recommendation": "g6_b34"
+  },
+  {
+    "pattern": "ca thở phoi",
+    "skill": "g6_b36",
+    "errorType": "animal_error",
+    "title": "Nhầm cơ quan hô hấp cá",
+    "message": "Cá thở bằng mang.",
+    "hint": "Phổi là của động vật trên cạn (sơ lược).",
+    "recommendation": "g6_b36"
+  },
+  {
+    "pattern": "chi co cay",
+    "skill": "g6_b38",
+    "errorType": "concept_error",
+    "title": "Thu hẹp đa dạng sinh học",
+    "message": "Đa dạng sinh học gồm vi sinh vật, động vật, thực vật.",
+    "hint": "Xem đa dạng ở nhiều cấp độ.",
+    "recommendation": "g6_b38"
+  },
+  {
+    "pattern": "ket luan truoc",
+    "skill": "g7_b01",
+    "errorType": "method_error",
+    "title": "Kết luận trước thí nghiệm",
+    "message": "Cần kiểm chứng giả thuyết bằng thí nghiệm.",
+    "hint": "Quan sát → giả thuyết → thí nghiệm.",
+    "recommendation": "g7_b01"
+  },
+  {
+    "pattern": "chi can nuoc",
+    "skill": "g7_b22",
+    "errorType": "process_error",
+    "title": "Thiếu điều kiện quang hợp",
+    "message": "Quang hợp cần ánh sáng và CO₂, không chỉ nước.",
+    "hint": "Clorophyll hấp thụ ánh sáng.",
+    "recommendation": "g7_b22"
+  },
+  {
+    "pattern": "chi hoi tho",
+    "skill": "g7_b25",
+    "errorType": "process_error",
+    "title": "Nhầm thở và hô hấp tế bào",
+    "message": "Thở là trao đổi khí; hô hấp tế bào tạo ATP.",
+    "hint": "Hô hấp diễn ra trong tế bào.",
+    "recommendation": "g7_b25"
+  },
+  {
+    "pattern": "cay khong ho hap",
+    "skill": "g7_b27",
+    "errorType": "process_error",
+    "title": "Cho rằng cây không hô hấp",
+    "message": "Thực vật hô hấp mọi lúc.",
+    "hint": "Quang hợp chủ yếu ban ngày.",
+    "recommendation": "g7_b27"
+  },
+  {
+    "pattern": "cay chi thai o2",
+    "skill": "g7_b28",
+    "errorType": "gas_error",
+    "title": "Nhầm trao đổi khí",
+    "message": "Cây vừa hô hấp vừa quang hợp; không chỉ thải O₂.",
+    "hint": "Ban đêm cây chủ yếu hô hấp.",
+    "recommendation": "g7_b28"
+  },
+  {
+    "pattern": "re quang hop",
+    "skill": "g7_b30",
+    "errorType": "plant_error",
+    "title": "Nhầm chức năng rễ",
+    "message": "Rễ hút nước muối; quang hợp chủ yếu ở lá.",
+    "hint": "Phân công cơ quan.",
+    "recommendation": "g7_b30"
+  },
+  {
+    "pattern": "cam ung la quang hop",
+    "skill": "g7_b33",
+    "errorType": "concept_error",
+    "title": "Nhầm cảm ứng và quang hợp",
+    "message": "Cảm ứng là phản ứng kích thích; quang hợp là trao đổi chất.",
+    "hint": "Hướng hóa ≠ quang hợp.",
+    "recommendation": "g7_b33"
+  },
+  {
+    "pattern": "sinh truong la phat trien",
+    "skill": "g7_b36",
+    "errorType": "growth_error",
+    "title": "Nhầm sinh trưởng và phát triển",
+    "message": "Sinh trưởng: tăng kích thước; phát triển: hoàn thiện cấu trúc.",
+    "hint": "Hai quá trình liên quan nhưng khác.",
+    "recommendation": "g7_b36"
+  },
+  {
+    "pattern": "vo tinh da dang gen",
+    "skill": "g7_b39",
+    "errorType": "repro_error",
+    "title": "Nhầm sinh sản vô tính",
+    "message": "Vô tính: con giống bố mẹ; ít đa dạng gen hơn hữu tính.",
+    "hint": "Không qua giao tử.",
+    "recommendation": "g7_b39"
+  },
+  {
+    "pattern": "huu tinh giong het",
+    "skill": "g7_b40",
+    "errorType": "repro_error",
+    "title": "Nhầm sinh sản hữu tính",
+    "message": "Hữu tính tạo đa dạng gen nhờ giao tử.",
+    "hint": "Thụ tinh tái tổ hợp gen.",
+    "recommendation": "g7_b40"
+  },
+  {
+    "pattern": "co quan doc lap",
+    "skill": "g7_b42",
+    "errorType": "system_error",
+    "title": "Nhầm thể thống nhất",
+    "message": "Các cơ quan phụ thuộc nhau trong cơ thể.",
+    "hint": "Một bộ phận hỏng ảnh hưởng toàn thể.",
+    "recommendation": "g7_b42"
+  },
+  {
+    "pattern": "tinh mach",
+    "skill": "g8_b33",
+    "errorType": "circulation_error",
+    "title": "Nhầm động mạch và tĩnh mạch",
+    "message": "Động mạch đi từ tim; tĩnh mạch về tim (sơ lược).",
+    "hint": "Vẽ sơ đồ tuần hoàn.",
+    "recommendation": "g8_b33"
+  },
+  {
+    "pattern": "chi hoi tho",
+    "skill": "g8_b34",
+    "errorType": "process_error",
+    "title": "Nhầm thở và hô hấp tế bào",
+    "message": "Thở là trao đổi khí; hô hấp tế bào tạo ATP.",
+    "hint": "Hô hấp ở phế nang và tế bào.",
+    "recommendation": "g8_b34"
+  },
+  {
+    "pattern": "than loc mau",
+    "skill": "g8_b35",
+    "errorType": "excretion_error",
+    "title": "Nhầm chức năng thận",
+    "message": "Thận lọc máu, không bơm máu như tim.",
+    "hint": "Hệ bài tiết loại chất thải.",
+    "recommendation": "g8_b35"
+  },
+  {
+    "pattern": "nao khong phan xa",
+    "skill": "g8_b37",
+    "errorType": "nervous_error",
+    "title": "Nhầm phản xạ và suy nghĩ",
+    "message": "Phản xạ qua tủy nhanh, không cần suy nghĩ dài.",
+    "hint": "Cung phản xạ.",
+    "recommendation": "g8_b37"
+  },
+  {
+    "pattern": "insulin tang duong",
+    "skill": "g8_b38",
+    "errorType": "endocrine_error",
+    "title": "Nhầm insulin",
+    "message": "Insulin hạ glucose, không tăng vô hạn.",
+    "hint": "Đái tháo đường liên quan insulin.",
+    "recommendation": "g8_b38"
+  },
+  {
+    "pattern": "quan the la quan xa",
+    "skill": "g8_b42",
+    "errorType": "ecology_error",
+    "title": "Nhầm quần thể và quần xã",
+    "message": "Quần thể: một loài; quần xã: nhiều loài.",
+    "hint": "Đơn vị sinh thái học.",
+    "recommendation": "g8_b42"
+  },
+  {
+    "pattern": "nang luong tang",
+    "skill": "g8_b44",
+    "errorType": "ecosystem_error",
+    "title": "Nhầm luồng năng lượng",
+    "message": "Năng lượng giảm qua các bậc, không tăng vô hạn.",
+    "hint": "Chỉ ~10% chuyển bậc trên.",
+    "recommendation": "g8_b44"
+  },
+  {
+    "pattern": "can bang khong doi",
+    "skill": "g8_b46",
+    "errorType": "balance_error",
+    "title": "Hiểu sai cân bằng",
+    "message": "Cân bằng là dao động quanh mức ổn định.",
+    "hint": "Không phải số lượng cố định tuyệt đối.",
+    "recommendation": "g8_b46"
+  },
+  {
+    "pattern": "o nhiem tot",
+    "skill": "g8_b47",
+    "errorType": "environment_error",
+    "title": "Đánh giá sai ô nhiễm",
+    "message": "Ô nhiễm làm hại sinh vật và sức khỏe.",
+    "hint": "Giảm rác và tiết kiệm năng lượng.",
+    "recommendation": "g8_b47"
+  },
+  {
+    "pattern": "gen trội luôn nhiều",
+    "skill": "g9_b37",
+    "errorType": "genetics_error",
+    "title": "Nhầm Mendel",
+    "message": "Kiểu hình phụ thuộc tỷ lệ gen, gen trội không luôn 100%.",
+    "hint": "Dùng bảng Punnett.",
+    "recommendation": "g9_b37"
+  },
+  {
+    "pattern": "adn mot chuoi",
+    "skill": "g9_b38",
+    "errorType": "genetics_error",
+    "title": "Nhầm cấu trúc ADN",
+    "message": "ADN thường là hai chuỗi xoắn kép.",
+    "hint": "Gen là đoạn ADN.",
+    "recommendation": "g9_b38"
+  },
+  {
+    "pattern": "phiên mã la dich ma",
+    "skill": "g9_b39",
+    "errorType": "genetics_error",
+    "title": "Nhầm phiên mã và dịch mã",
+    "message": "Phiên mã: ADN→mARN; dịch mã: mARN→protein.",
+    "hint": "Hai bước biểu hiện gen.",
+    "recommendation": "g9_b39"
+  },
+  {
+    "pattern": "giam phan 2n",
+    "skill": "g9_b43",
+    "errorType": "cell_error",
+    "title": "Nhầm nguyên phân và giảm phân",
+    "message": "Giảm phân: 2n→n; nguyên phân: 2n→2n.",
+    "hint": "Giao tử n NST.",
+    "recommendation": "g9_b43"
+  },
+  {
+    "pattern": "xx la nam",
+    "skill": "g9_b44",
+    "errorType": "genetics_error",
+    "title": "Nhầm giới tính người",
+    "message": "XX thường nữ; XY thường nam (sơ lược SGK).",
+    "hint": "NST giới tính.",
+    "recommendation": "g9_b44"
+  },
+  {
+    "pattern": "vaccine gay benh",
+    "skill": "g9_b48",
+    "errorType": "biotech_error",
+    "title": "Hiểu sai vaccine",
+    "message": "Vaccine kích hoạt miễn dịch, không cố ý gây bệnh nặng.",
+    "hint": "Tiêm chủng đúng lịch.",
+    "recommendation": "g9_b48"
+  },
+  {
+    "pattern": "ca the tien hoa",
+    "skill": "g9_b49",
+    "errorType": "evolution_error",
+    "title": "Nhầm tiến hóa cá thể",
+    "message": "Tiến hóa là thay đổi quần thể qua thế hệ.",
+    "hint": "Không phải một đời sống.",
+    "recommendation": "g9_b49"
+  },
+  {
+    "pattern": "chon loc tao gen",
+    "skill": "g9_b50",
+    "errorType": "evolution_error",
+    "title": "Nhầm chọn lọc",
+    "message": "Chọn lọc tác trên biến dị có sẵn, không tự tạo gen mới.",
+    "hint": "Đột biến + chọn lọc.",
+    "recommendation": "g9_b50"
+  }
+]

@@ -1,0 +1,3530 @@
+[
+  {
+    "id": "q_g6_b01_1",
+    "skill": "g6_b01",
+    "type": "multiple_choice",
+    "question": "Sinh học nghiên cứu chủ yếu điều gì?",
+    "choices": [
+      "Sự sống và sinh vật",
+      "Chỉ chuyển động cơ",
+      "Chỉ phản ứng hóa học",
+      "Chỉ hành tinh"
+    ],
+    "answer": "Sự sống và sinh vật",
+    "hint": "Sinh học là nhánh KHTN về sự sống."
+  },
+  {
+    "id": "q_g6_b01_2",
+    "skill": "g6_b01",
+    "type": "multiple_choice",
+    "question": "KHTN gồm những lĩnh vực nào?",
+    "choices": [
+      "Vật lí, Hóa học, Sinh học",
+      "Chỉ Toán",
+      "Chỉ Văn",
+      "Chỉ Địa"
+    ],
+    "answer": "Vật lí, Hóa học, Sinh học",
+    "hint": "Ba lĩnh vực cốt lõi THCS."
+  },
+  {
+    "id": "q_g6_b01_3",
+    "skill": "g6_b01",
+    "type": "multiple_choice",
+    "question": "Ví dụ nào thuộc Sinh học?",
+    "choices": [
+      "Vi khuẩn lên men sữa chua",
+      "Quả bóng rơi",
+      "Muối tan trong nước",
+      "Đo nhiệt độ"
+    ],
+    "answer": "Vi khuẩn lên men sữa chua",
+    "hint": "Quá trình sinh học vi sinh."
+  },
+  {
+    "id": "q_g6_b02_1",
+    "skill": "g6_b02",
+    "type": "multiple_choice",
+    "question": "Khi quan sát mẫu sinh vật lạ, em nên:",
+    "choices": [
+      "Không nếm, báo giáo viên",
+      "Nếm thử vị",
+      "Ngửi sát mũi",
+      "Đổ mẫu ra sàn"
+    ],
+    "answer": "Không nếm, báo giáo viên",
+    "hint": "An toàn phòng thí nghiệm."
+  },
+  {
+    "id": "q_g6_b02_2",
+    "skill": "g6_b02",
+    "type": "multiple_choice",
+    "question": "Dụng cụ bảo hộ khi làm TN Sinh gồm:",
+    "choices": [
+      "Găng tay, kính bảo hộ",
+      "Chỉ dép lê",
+      "Không cần gì",
+      "Chỉ khẩu trang một lần"
+    ],
+    "answer": "Găng tay, kính bảo hộ",
+    "hint": "Bảo vệ da và mắt."
+  },
+  {
+    "id": "q_g6_b02_3",
+    "skill": "g6_b02",
+    "type": "multiple_choice",
+    "question": "Sau thí nghiệm Sinh, em nên:",
+    "choices": [
+      "Rửa tay sạch",
+      "Không rửa tay",
+      "Ăn ngay trong lab",
+      "Cất mẫu tùy tiện"
+    ],
+    "answer": "Rửa tay sạch",
+    "hint": "Vệ sinh cá nhân."
+  },
+  {
+    "id": "q_g6_b03_1",
+    "skill": "g6_b03",
+    "type": "multiple_choice",
+    "question": "Kính lúp dùng để:",
+    "choices": [
+      "Quan sát vật nhỏ phóng đại vài lần",
+      "Quan sát tế bào chi tiết như hiển vi",
+      "Đo nhiệt độ",
+      "Cân khối lượng"
+    ],
+    "answer": "Quan sát vật nhỏ phóng đại vài lần",
+    "hint": "Phóng đại thấp hơn hiển vi."
+  },
+  {
+    "id": "q_g6_b03_2",
+    "skill": "g6_b03",
+    "type": "multiple_choice",
+    "question": "Mẫu nào phù hợp quan sát bằng kính lúp?",
+    "choices": [
+      "Gân lá cây",
+      "Cấu trúc vi khuẩn chi tiết",
+      "Nguyên tử",
+      "Hành tinh"
+    ],
+    "answer": "Gân lá cây",
+    "hint": "Vật nhỏ nhưng không vi mô."
+  },
+  {
+    "id": "q_g6_b03_3",
+    "skill": "g6_b03",
+    "type": "multiple_choice",
+    "question": "Kính hiển vi khác kính lúp ở chỗ:",
+    "choices": [
+      "Phóng đại mạnh hơn nhiều",
+      "Không phóng đại",
+      "Chỉ dùng ban đêm",
+      "Đo thời gian"
+    ],
+    "answer": "Phóng đại mạnh hơn nhiều",
+    "hint": "Hiển vi cần mẫu mỏng."
+  },
+  {
+    "id": "q_g6_b04_1",
+    "skill": "g6_b04",
+    "type": "multiple_choice",
+    "question": "Kính hiển vi quang học dùng để:",
+    "choices": [
+      "Quan sát tế bào và cấu trúc vi mô",
+      "Ngắm sao",
+      "Đo lực",
+      "Cân khối lượng lớn"
+    ],
+    "answer": "Quan sát tế bào và cấu trúc vi mô",
+    "hint": "Công cụ Sinh học cơ bản."
+  },
+  {
+    "id": "q_g6_b04_2",
+    "skill": "g6_b04",
+    "type": "multiple_choice",
+    "question": "Làm mẫu quan sát tế bào cần:",
+    "choices": [
+      "Lam kính, lam mỏng, nhuộm màu an toàn",
+      "Chỉ giọt nước",
+      "Không cần che kính",
+      "Nếm thử mẫu"
+    ],
+    "answer": "Lam kính, lam mỏng, nhuộm màu an toàn",
+    "hint": "Mẫu mỏng giúp ánh sáng xuyên qua."
+  },
+  {
+    "id": "q_g6_b04_3",
+    "skill": "g6_b04",
+    "type": "multiple_choice",
+    "question": "Tế bào thực vật thường có thêm so với động vật:",
+    "choices": [
+      "Vách tế bào",
+      "Không có màng",
+      "Không có tế bào chất",
+      "Không có nhân"
+    ],
+    "answer": "Vách tế bào",
+    "hint": "Vách cellulose đặc trưng thực vật."
+  },
+  {
+    "id": "q_g6_b15_1",
+    "skill": "g6_b15",
+    "type": "multiple_choice",
+    "question": "Nhóm chất cung cấp năng lượng chính:",
+    "choices": [
+      "Carbohydrate (tinh bột, đường)",
+      "Chỉ vitamin",
+      "Chỉ khoáng",
+      "Chỉ nước"
+    ],
+    "answer": "Carbohydrate (tinh bột, đường)",
+    "hint": "Nguồn năng lượng hàng ngày."
+  },
+  {
+    "id": "q_g6_b15_2",
+    "skill": "g6_b15",
+    "type": "multiple_choice",
+    "question": "Protein có vai trò:",
+    "choices": [
+      "Xây dựng và sửa chữa cơ thể",
+      "Chỉ tạo màu xanh lá",
+      "Chỉ đốt cháy không khí",
+      "Chỉ làm cứng xương độc lập"
+    ],
+    "answer": "Xây dựng và sửa chữa cơ thể",
+    "hint": "Đậu, trứng, thịt giàu protein."
+  },
+  {
+    "id": "q_g6_b15_3",
+    "skill": "g6_b15",
+    "type": "multiple_choice",
+    "question": "Gạo tẻ chứa nhiều:",
+    "choices": [
+      "Tinh bột",
+      "Protein nhất",
+      "Chất béo duy nhất",
+      "Vitamin D"
+    ],
+    "answer": "Tinh bột",
+    "hint": "Lương thực chính ở Việt Nam."
+  },
+  {
+    "id": "q_g6_b18_1",
+    "skill": "g6_b18",
+    "type": "multiple_choice",
+    "question": "Tế bào là:",
+    "choices": [
+      "Đơn vị cơ bản của sự sống",
+      "Chỉ là hạt bụi",
+      "Chỉ có ở động vật",
+      "Chỉ có ở thực vật"
+    ],
+    "answer": "Đơn vị cơ bản của sự sống",
+    "hint": "Mọi sinh vật đều có tế bào."
+  },
+  {
+    "id": "q_g6_b18_2",
+    "skill": "g6_b18",
+    "type": "multiple_choice",
+    "question": "Sinh vật đơn bào là sinh vật:",
+    "choices": [
+      "Cơ thể gồm một tế bào",
+      "Không có tế bào",
+      "Chỉ sống trên cạn",
+      "Chỉ là virus"
+    ],
+    "answer": "Cơ thể gồm một tế bào",
+    "hint": "Ví dụ: vi khuẩn, amip."
+  },
+  {
+    "id": "q_g6_b18_3",
+    "skill": "g6_b18",
+    "type": "multiple_choice",
+    "question": "Thành phần nào thường có trong tế bào?",
+    "choices": [
+      "Màng, tế bào chất, nhân",
+      "Chỉ vách gỗ",
+      "Chỉ lông vũ",
+      "Chỉ vỏ cứng côn trùng"
+    ],
+    "answer": "Màng, tế bào chất, nhân",
+    "hint": "Cấu trúc cơ bản tế bào."
+  },
+  {
+    "id": "q_g6_b19_1",
+    "skill": "g6_b19",
+    "type": "multiple_choice",
+    "question": "Nhân tế bào có vai trò:",
+    "choices": [
+      "Chứa thông tin di truyền, điều khiển hoạt động",
+      "Chỉ chứa nước",
+      "Chỉ là vách bảo vệ",
+      "Không có chức năng"
+    ],
+    "answer": "Chứa thông tin di truyền, điều khiển hoạt động",
+    "hint": "Nhân chứa ADN."
+  },
+  {
+    "id": "q_g6_b19_2",
+    "skill": "g6_b19",
+    "type": "multiple_choice",
+    "question": "Màng tế bào:",
+    "choices": [
+      "Điều hòa vào – ra chất",
+      "Chỉ làm cứng cơ thể",
+      "Chỉ có ở virus",
+      "Không liên quan trao đổi"
+    ],
+    "answer": "Điều hòa vào – ra chất",
+    "hint": "Màng chọn lọc."
+  },
+  {
+    "id": "q_g6_b19_3",
+    "skill": "g6_b19",
+    "type": "multiple_choice",
+    "question": "Vacuole lớn thường gặp ở:",
+    "choices": [
+      "Tế bào thực vật",
+      "Virus",
+      "Chỉ vi khuẩn",
+      "Không có ở sinh vật"
+    ],
+    "answer": "Tế bào thực vật",
+    "hint": "Chứa dịch bào."
+  },
+  {
+    "id": "q_g6_b20_1",
+    "skill": "g6_b20",
+    "type": "multiple_choice",
+    "question": "Tế bào lớn lên nhờ:",
+    "choices": [
+      "Hấp thu chất dinh dưỡng và tích lũy",
+      "Chỉ uống nước một lần",
+      "Không trao đổi chất",
+      "Chỉ ngủ"
+    ],
+    "answer": "Hấp thu chất dinh dưỡng và tích lũy",
+    "hint": "Trao đổi chất nuôi tế bào."
+  },
+  {
+    "id": "q_g6_b20_2",
+    "skill": "g6_b20",
+    "type": "multiple_choice",
+    "question": "Sinh sản tế bào thường qua:",
+    "choices": [
+      "Phân chia tế bào",
+      "Chỉ hô hấp",
+      "Chỉ quang hợp",
+      "Bay đi"
+    ],
+    "answer": "Phân chia tế bào",
+    "hint": "Một tế bào → hai tế bào con."
+  },
+  {
+    "id": "q_g6_b20_3",
+    "skill": "g6_b20",
+    "type": "multiple_choice",
+    "question": "Phân chia tế bào giúp:",
+    "choices": [
+      "Cơ thể lớn lên và thay tế bào cũ",
+      "Chỉ làm giảm số tế bào",
+      "Chỉ xảy ra ở virus",
+      "Không liên quan sinh vật"
+    ],
+    "answer": "Cơ thể lớn lên và thay tế bào cũ",
+    "hint": "Quan trọng với sinh vật đa bào."
+  },
+  {
+    "id": "q_g6_b21_1",
+    "skill": "g6_b21",
+    "type": "multiple_choice",
+    "question": "Khi quan sát tế bào thực vật, thường thấy:",
+    "choices": [
+      "Vách tế bào hình chữ nhật",
+      "Không có nhân",
+      "Chỉ có vỏ côn trùng",
+      "Không cần nhuộm"
+    ],
+    "answer": "Vách tế bào hình chữ nhật",
+    "hint": "Hình dạng đặc trưng."
+  },
+  {
+    "id": "q_g6_b21_2",
+    "skill": "g6_b21",
+    "type": "multiple_choice",
+    "question": "Nhuộm iodine giúp:",
+    "choices": [
+      "Làm nổi bật nhân hoặc tinh bột",
+      "Làm mẫu tan hết",
+      "Đo nhiệt độ",
+      "Tạo màu đen vĩnh viễn trên tay"
+    ],
+    "answer": "Làm nổi bật nhân hoặc tinh bột",
+    "hint": "Thuốc nhuộm an toàn trong SGK."
+  },
+  {
+    "id": "q_g6_b21_3",
+    "skill": "g6_b21",
+    "type": "multiple_choice",
+    "question": "Vẽ hình quan sát cần ghi:",
+    "choices": [
+      "Độ phóng đại và tên bộ phận",
+      "Chỉ màu yêu thích",
+      "Không cần tỷ lệ",
+      "Chỉ chữ ký"
+    ],
+    "answer": "Độ phóng đại và tên bộ phận",
+    "hint": "Sổ tay lab đúng chuẩn."
+  },
+  {
+    "id": "q_g6_b22_1",
+    "skill": "g6_b22",
+    "type": "multiple_choice",
+    "question": "Cơ thể sinh vật đa bào:",
+    "choices": [
+      "Gồm nhiều tế bào",
+      "Chỉ một tế bào",
+      "Không có tế bào",
+      "Chỉ là mô đất"
+    ],
+    "answer": "Gồm nhiều tế bào",
+    "hint": "Người, cây muống là đa bào."
+  },
+  {
+    "id": "q_g6_b22_2",
+    "skill": "g6_b22",
+    "type": "multiple_choice",
+    "question": "Ví dụ sinh vật đơn bào:",
+    "choices": [
+      "Amip",
+      "Cây thông",
+      "Con mèo",
+      "Con người"
+    ],
+    "answer": "Amip",
+    "hint": "Một tế bào là cả cơ thể."
+  },
+  {
+    "id": "q_g6_b22_3",
+    "skill": "g6_b22",
+    "type": "multiple_choice",
+    "question": "Các tế bào trong cơ thể đa bào:",
+    "choices": [
+      "Phối hợp làm việc",
+      "Không liên quan nhau",
+      "Chỉ giống hệt virus",
+      "Không trao đổi chất"
+    ],
+    "answer": "Phối hợp làm việc",
+    "hint": "Tạo nên cơ thể hoàn chỉnh."
+  },
+  {
+    "id": "q_g6_b23_1",
+    "skill": "g6_b23",
+    "type": "multiple_choice",
+    "question": "Thứ tự tổ chức đúng:",
+    "choices": [
+      "Tế bào → mô → cơ quan → cơ thể",
+      "Cơ thể → tế bào → mô",
+      "Chỉ có tế bào → cơ thể",
+      "Mô → tế bào → cơ quan"
+    ],
+    "answer": "Tế bào → mô → cơ quan → cơ thể",
+    "hint": "Cấp tổ chức đa bào."
+  },
+  {
+    "id": "q_g6_b23_2",
+    "skill": "g6_b23",
+    "type": "multiple_choice",
+    "question": "Mô là:",
+    "choices": [
+      "Nhóm tế bào cùng loại làm chung chức năng",
+      "Một tế bào duy nhất",
+      "Chỉ là đất",
+      "Chỉ là nước"
+    ],
+    "answer": "Nhóm tế bào cùng loại làm chung chức năng",
+    "hint": "Ví dụ: mô biểu bì."
+  },
+  {
+    "id": "q_g6_b23_3",
+    "skill": "g6_b23",
+    "type": "multiple_choice",
+    "question": "Cơ quan là:",
+    "choices": [
+      "Nhiều mô phối hợp",
+      "Chỉ một phân tử",
+      "Chỉ một bào tử",
+      "Không có chức năng"
+    ],
+    "answer": "Nhiều mô phối hợp",
+    "hint": "Ví dụ: lá, rễ, tim."
+  },
+  {
+    "id": "q_g6_b24_1",
+    "skill": "g6_b24",
+    "type": "multiple_choice",
+    "question": "Amip thuộc nhóm:",
+    "choices": [
+      "Sinh vật đơn bào",
+      "Thực vật hạt kín",
+      "Động vật có xương sống",
+      "Virus"
+    ],
+    "answer": "Sinh vật đơn bào",
+    "hint": "Di chuyển bằng chân giả."
+  },
+  {
+    "id": "q_g6_b24_2",
+    "skill": "g6_b24",
+    "type": "multiple_choice",
+    "question": "Mô thực vật gồm:",
+    "choices": [
+      "Nhiều tế bào",
+      "Một phân tử nước",
+      "Chỉ không khí",
+      "Chỉ đá"
+    ],
+    "answer": "Nhiều tế bào",
+    "hint": "Đa bào."
+  },
+  {
+    "id": "q_g6_b24_3",
+    "skill": "g6_b24",
+    "type": "multiple_choice",
+    "question": "So sánh đơn bào và đa bào dựa trên:",
+    "choices": [
+      "Số tế bào tạo nên cơ thể",
+      "Chỉ màu sắc",
+      "Chỉ nơi sống trên cạn",
+      "Chỉ kích thước Trái Đất"
+    ],
+    "answer": "Số tế bào tạo nên cơ thể",
+    "hint": "Tiêu chí phân loại cơ bản."
+  },
+  {
+    "id": "q_g6_b25_1",
+    "skill": "g6_b25",
+    "type": "multiple_choice",
+    "question": "Tên khoa học thường gồm:",
+    "choices": [
+      "Tên chi và tên loài",
+      "Chỉ tên địa phương",
+      "Chỉ một chữ",
+      "Chỉ số điện thoại"
+    ],
+    "answer": "Tên chi và tên loài",
+    "hint": "Ví dụ: Homo sapiens."
+  },
+  {
+    "id": "q_g6_b25_2",
+    "skill": "g6_b25",
+    "type": "multiple_choice",
+    "question": "Phân loại sinh vật giúp:",
+    "choices": [
+      "Tra cứu và nghiên cứu quan hệ họ hàng",
+      "Chỉ để đặt tên vui",
+      "Không có ích",
+      "Chỉ dùng cho đá"
+    ],
+    "answer": "Tra cứu và nghiên cứu quan hệ họ hàng",
+    "hint": "Hệ thống phân cấp."
+  },
+  {
+    "id": "q_g6_b25_3",
+    "skill": "g6_b25",
+    "type": "multiple_choice",
+    "question": "Cấp phân loại từ rộng đến hẹp (một dãy):",
+    "choices": [
+      "Giới → ngành → lớp → bộ → họ → chi → loài",
+      "Loài → giới duy nhất",
+      "Chỉ có giới và loài",
+      "Chi → giới → loài → ngành"
+    ],
+    "answer": "Giới → ngành → lớp → bộ → họ → chi → loài",
+    "hint": "Thứ tự SGK THCS."
+  },
+  {
+    "id": "q_g6_b26_1",
+    "skill": "g6_b26",
+    "type": "multiple_choice",
+    "question": "Khóa lưỡng phân dùng:",
+    "choices": [
+      "Cặp đặc điểm đối lập",
+      "Chỉ một câu hỏi",
+      "Chỉ màu sắc yêu thích",
+      "Chỉ đo nhiệt độ"
+    ],
+    "answer": "Cặp đặc điểm đối lập",
+    "hint": "Có / không; dài / ngắn..."
+  },
+  {
+    "id": "q_g6_b26_2",
+    "skill": "g6_b26",
+    "type": "multiple_choice",
+    "question": "Mỗi bước khóa lưỡng phân chia mẫu thành:",
+    "choices": [
+      "Hai nhóm",
+      "Mười nhóm",
+      "Không chia",
+      "Một nhóm duy nhất"
+    ],
+    "answer": "Hai nhóm",
+    "hint": "Nguyên tắc lưỡng phân."
+  },
+  {
+    "id": "q_g6_b26_3",
+    "skill": "g6_b26",
+    "type": "multiple_choice",
+    "question": "Đặc điểm tốt để lập khóa nên:",
+    "choices": [
+      "Dễ quan sát, ổn định",
+      "Thay đổi liên tục",
+      "Không nhìn thấy",
+      "Chỉ nghe mùi"
+    ],
+    "answer": "Dễ quan sát, ổn định",
+    "hint": "Giúp phân loại chính xác."
+  },
+  {
+    "id": "q_g6_b27_1",
+    "skill": "g6_b27",
+    "type": "multiple_choice",
+    "question": "Vi khuẩn có hình dạng:",
+    "choices": [
+      "Cầu, que, xoắn...",
+      "Chỉ hình vuông lớn",
+      "Chỉ hình cây",
+      "Chỉ cánh chim"
+    ],
+    "answer": "Cầu, que, xoắn...",
+    "hint": "Đa dạng hình thái."
+  },
+  {
+    "id": "q_g6_b27_2",
+    "skill": "g6_b27",
+    "type": "multiple_choice",
+    "question": "Vi khuẩn có lợi:",
+    "choices": [
+      "Lên men sữa chua, làm phân bón",
+      "Luôn gây chết người ngay",
+      "Không có vai trò nào",
+      "Chỉ sống trên Mặt Trời"
+    ],
+    "answer": "Lên men sữa chua, làm phân bón",
+    "hint": "Ứng dụng thực tế."
+  },
+  {
+    "id": "q_g6_b27_3",
+    "skill": "g6_b27",
+    "type": "multiple_choice",
+    "question": "Vi khuẩn khác virus ở chỗ:",
+    "choices": [
+      "Vi khuẩn là tế bào sống (sơ lược)",
+      "Giống hệt nhau",
+      "Virus lớn hơn",
+      "Vi khuẩn không sinh sản"
+    ],
+    "answer": "Vi khuẩn là tế bào sống (sơ lược)",
+    "hint": "Virus cần tế bào chủ."
+  },
+  {
+    "id": "q_g6_b28_1",
+    "skill": "g6_b28",
+    "type": "multiple_choice",
+    "question": "Sữa chua tạo được nhờ:",
+    "choices": [
+      "Vi khuẩn lactic acid lên men sữa",
+      "Chỉ đun sôi",
+      "Chỉ để trong tủ đá",
+      "Chỉ thêm đường"
+    ],
+    "answer": "Vi khuẩn lactic acid lên men sữa",
+    "hint": "Lên men sinh học."
+  },
+  {
+    "id": "q_g6_b28_2",
+    "skill": "g6_b28",
+    "type": "multiple_choice",
+    "question": "Khi làm sữa chua cần:",
+    "choices": [
+      "Vệ sinh dụng cụ và ủ ấm phù hợp",
+      "Nếm thử liên tục khi ủ",
+      "Để mở không che",
+      "Dùng mẫu bẩn"
+    ],
+    "answer": "Vệ sinh dụng cụ và ủ ấm phù hợp",
+    "hint": "Điều kiện lên men."
+  },
+  {
+    "id": "q_g6_b28_3",
+    "skill": "g6_b28",
+    "type": "multiple_choice",
+    "question": "Lên men là:",
+    "choices": [
+      "Vi sinh vật biến đổi chất hữu cơ",
+      "Chỉ đốt cháy",
+      "Chỉ tan trong nước",
+      "Chỉ quang hợp"
+    ],
+    "answer": "Vi sinh vật biến đổi chất hữu cơ",
+    "hint": "Quá trình sinh học."
+  },
+  {
+    "id": "q_g6_b29_1",
+    "skill": "g6_b29",
+    "type": "multiple_choice",
+    "question": "Virus:",
+    "choices": [
+      "Không có cấu trúc tế bào hoàn chỉnh",
+      "Lớn hơn cây thông",
+      "Tự quang hợp",
+      "Luôn có lợi"
+    ],
+    "answer": "Không có cấu trúc tế bào hoàn chỉnh",
+    "hint": "Cần tế bào chủ."
+  },
+  {
+    "id": "q_g6_b29_2",
+    "skill": "g6_b29",
+    "type": "multiple_choice",
+    "question": "Virus sinh sản bằng cách:",
+    "choices": [
+      "Chiếm tế bào chủ để nhân lên",
+      "Phân chia như amip",
+      "Quang hợp",
+      "Sinh sản hữu tính như hoa"
+    ],
+    "answer": "Chiếm tế bào chủ để nhân lên",
+    "hint": "Không tự nhân lên độc lập."
+  },
+  {
+    "id": "q_g6_b29_3",
+    "skill": "g6_b29",
+    "type": "multiple_choice",
+    "question": "Vaccine giúp:",
+    "choices": [
+      "Tạo miễn dịch phòng bệnh virus",
+      "Làm virus lớn hơn",
+      "Thay thế tế bào",
+      "Không liên quan sức khỏe"
+    ],
+    "answer": "Tạo miễn dịch phòng bệnh virus",
+    "hint": "Phòng bệnh truyền nhiễm."
+  },
+  {
+    "id": "q_g6_b30_1",
+    "skill": "g6_b30",
+    "type": "multiple_choice",
+    "question": "Nguyên sinh vật thường sống:",
+    "choices": [
+      "Trong nước",
+      "Chỉ trên Mặt Trời",
+      "Chỉ trong đá núi nung",
+      "Không cần môi trường"
+    ],
+    "answer": "Trong nước",
+    "hint": "Ao, hồ, giọt nước."
+  },
+  {
+    "id": "q_g6_b30_2",
+    "skill": "g6_b30",
+    "type": "multiple_choice",
+    "question": "Amip di chuyển bằng:",
+    "choices": [
+      "Chân giả",
+      "Cánh",
+      "Vây cá",
+      "Bánh xe"
+    ],
+    "answer": "Chân giả",
+    "hint": "Thay đổi hình dạng tế bào."
+  },
+  {
+    "id": "q_g6_b30_3",
+    "skill": "g6_b30",
+    "type": "multiple_choice",
+    "question": "Euglena có:",
+    "choices": [
+      "Dải roi giúp di chuyển",
+      "Vỏ cua",
+      "Lông vũ",
+      "Xương sống"
+    ],
+    "answer": "Dải roi giúp di chuyển",
+    "hint": "Nguyên sinh vật biết di chuyển."
+  },
+  {
+    "id": "q_g6_b31_1",
+    "skill": "g6_b31",
+    "type": "multiple_choice",
+    "question": "Lấy mẫu nước ao quan sát cần:",
+    "choices": [
+      "Dụng cụ sạch, làm theo hướng dẫn GV",
+      "Uống thử nước ao",
+      "Không cần kính hiển vi",
+      "Ném mẫu vào mắt"
+    ],
+    "answer": "Dụng cụ sạch, làm theo hướng dẫn GV",
+    "hint": "An toàn thí nghiệm."
+  },
+  {
+    "id": "q_g6_b31_2",
+    "skill": "g6_b31",
+    "type": "multiple_choice",
+    "question": "Nguyên sinh vật trong giọt nước:",
+    "choices": [
+      "Thường cần kính hiển vi để thấy rõ",
+      "To bằng cá mập",
+      "Không di chuyển",
+      "Chỉ là đá"
+    ],
+    "answer": "Thường cần kính hiển vi để thấy rõ",
+    "hint": "Kích thước vi mô."
+  },
+  {
+    "id": "q_g6_b31_3",
+    "skill": "g6_b31",
+    "type": "multiple_choice",
+    "question": "Ghi sổ quan sát nên có:",
+    "choices": [
+      "Hình vẽ và mô tả chuyển động",
+      "Chỉ chữ ký bạn bè",
+      "Không ghi thời gian",
+      "Chỉ màu mực"
+    ],
+    "answer": "Hình vẽ và mô tả chuyển động",
+    "hint": "Sổ tay khoa học."
+  },
+  {
+    "id": "q_g6_b32_1",
+    "skill": "g6_b32",
+    "type": "multiple_choice",
+    "question": "Nấm dinh dưỡng bằng cách:",
+    "choices": [
+      "Hút chất hữu cơ từ môi trường",
+      "Quang hợp",
+      "Bắt mồi bằng nanh",
+      "Bay như chim"
+    ],
+    "answer": "Hút chất hữu cơ từ môi trường",
+    "hint": "Không quang hợp."
+  },
+  {
+    "id": "q_g6_b32_2",
+    "skill": "g6_b32",
+    "type": "multiple_choice",
+    "question": "Nấm men dùng trong:",
+    "choices": [
+      "Làm bánh mì, lên men",
+      "Chỉ làm gạch",
+      "Chỉ đúc kim loại",
+      "Chỉ đo lực"
+    ],
+    "answer": "Làm bánh mì, lên men",
+    "hint": "Vi sinh có ích."
+  },
+  {
+    "id": "q_g6_b32_3",
+    "skill": "g6_b32",
+    "type": "multiple_choice",
+    "question": "Nấm mốc thường mọc:",
+    "choices": [
+      "Trên thức ăn để lâu ẩm",
+      "Trên kim loại",
+      "Trong chân không",
+      "Chỉ dưới nước biển sâu"
+    ],
+    "answer": "Trên thức ăn để lâu ẩm",
+    "hint": "Điều kiện ẩm, hữu cơ."
+  },
+  {
+    "id": "q_g6_b33_1",
+    "skill": "g6_b33",
+    "type": "multiple_choice",
+    "question": "Quan sát nấm mốc an toàn:",
+    "choices": [
+      "Không hít trực tiếp bào tử",
+      "Ăn thử nấm mốc",
+      "Quát mạnh vào mặt bạn",
+      "Không che mẫu"
+    ],
+    "answer": "Không hít trực tiếp bào tử",
+    "hint": "Bảo vệ đường hô hấp."
+  },
+  {
+    "id": "q_g6_b33_2",
+    "skill": "g6_b33",
+    "type": "multiple_choice",
+    "question": "Thân nấm gồm:",
+    "choices": [
+      "Sợi nấm (mycelium)",
+      "Chỉ một tế bào lớn duy nhất",
+      "Chỉ lá cây",
+      "Chỉ xương"
+    ],
+    "answer": "Sợi nấm (mycelium)",
+    "hint": "Cấu trúc cơ bản nấm."
+  },
+  {
+    "id": "q_g6_b33_3",
+    "skill": "g6_b33",
+    "type": "multiple_choice",
+    "question": "Nấm sinh sản bằng:",
+    "choices": [
+      "Bào tử",
+      "Chỉ hạt có cánh",
+      "Chỉ đẻ con",
+      "Chỉ phân hạch như tế bào người"
+    ],
+    "answer": "Bào tử",
+    "hint": "Bào tử nhẹ, lan rộng."
+  },
+  {
+    "id": "q_g6_b34_1",
+    "skill": "g6_b34",
+    "type": "multiple_choice",
+    "question": "Đặc điểm chung thực vật:",
+    "choices": [
+      "Quang hợp, có rễ thân lá",
+      "Chỉ ăn thịt",
+      "Không có tế bào",
+      "Chỉ sống dưới đáy biển sâu"
+    ],
+    "answer": "Quang hợp, có rễ thân lá",
+    "hint": "Nhà sản xuất."
+  },
+  {
+    "id": "q_g6_b34_2",
+    "skill": "g6_b34",
+    "type": "multiple_choice",
+    "question": "Thực vật hạt trần:",
+    "choices": [
+      "Hạt không được bao kín quả",
+      "Luôn là cây hoa",
+      "Không có lá",
+      "Chỉ sống trong nước"
+    ],
+    "answer": "Hạt không được bao kín quả",
+    "hint": "Ví dụ: thông, bách."
+  },
+  {
+    "id": "q_g6_b34_3",
+    "skill": "g6_b34",
+    "type": "multiple_choice",
+    "question": "Vách tế bào thực vật chứa:",
+    "choices": [
+      "Cellulose",
+      "Chỉ sắt",
+      "Chỉ nhựa cao su",
+      "Chỉ muối ăn"
+    ],
+    "answer": "Cellulose",
+    "hint": "Làm cứng tế bào."
+  },
+  {
+    "id": "q_g6_b35_1",
+    "skill": "g6_b35",
+    "type": "multiple_choice",
+    "question": "Phân biệt thực vật hạt kín quan sát:",
+    "choices": [
+      "Hoa, quả, hạt được bao kín",
+      "Không bao giờ có rễ",
+      "Không có lá",
+      "Chỉ mọc trên đá"
+    ],
+    "answer": "Hoa, quả, hạt được bao kín",
+    "hint": "Đặc điểm nhóm hạt kín."
+  },
+  {
+    "id": "q_g6_b35_2",
+    "skill": "g6_b35",
+    "type": "multiple_choice",
+    "question": "Khi quan sát mẫu cây nên ghi:",
+    "choices": [
+      "Hình dạng lá, rễ, thân",
+      "Chỉ tên bạn cùng nhóm",
+      "Không cần vẽ",
+      "Chỉ màu bút"
+    ],
+    "answer": "Hình dạng lá, rễ, thân",
+    "hint": "Mô tả đặc điểm."
+  },
+  {
+    "id": "q_g6_b35_3",
+    "skill": "g6_b35",
+    "type": "multiple_choice",
+    "question": "Thực vật một nhị có:",
+    "choices": [
+      "Một nhị trong hoa",
+      "Mười nhị",
+      "Không có hoa",
+      "Chỉ có rễ"
+    ],
+    "answer": "Một nhị trong hoa",
+    "hint": "Ví dụ: đậu (sơ lược)."
+  },
+  {
+    "id": "q_g6_b36_1",
+    "skill": "g6_b36",
+    "type": "multiple_choice",
+    "question": "Động vật khác thực vật ở chỗ:",
+    "choices": [
+      "Di chuyển tích cực, đa số ăn sẵn",
+      "Quang hợp",
+      "Có vách cellulose",
+      "Không có tế bào"
+    ],
+    "answer": "Di chuyển tích cực, đa số ăn sẵn",
+    "hint": "Dịch dưỡng."
+  },
+  {
+    "id": "q_g6_b36_2",
+    "skill": "g6_b36",
+    "type": "multiple_choice",
+    "question": "Động vật không xương sống:",
+    "choices": [
+      "Côn trùng, giun, mềm...",
+      "Chim, cá, thú",
+      "Chỉ khủng long",
+      "Chỉ cây cối"
+    ],
+    "answer": "Côn trùng, giun, mềm...",
+    "hint": "Không có xương sống."
+  },
+  {
+    "id": "q_g6_b36_3",
+    "skill": "g6_b36",
+    "type": "multiple_choice",
+    "question": "Cá thở bằng:",
+    "choices": [
+      "Mang",
+      "Phổi như người",
+      "Lá cây",
+      "Vỏ cua"
+    ],
+    "answer": "Mang",
+    "hint": "Hô hấp dưới nước."
+  },
+  {
+    "id": "q_g6_b37_1",
+    "skill": "g6_b37",
+    "type": "multiple_choice",
+    "question": "Quan sát động vật ngoài thiên nhiên:",
+    "choices": [
+      "Giữ an toàn, không làm hại sinh vật",
+      "Bắt chim hoang dã trái phép",
+      "Ném đá vào tổ",
+      "Phá tổ ong"
+    ],
+    "answer": "Giữ an toàn, không làm hại sinh vật",
+    "hint": "Đạo đức khảo sát."
+  },
+  {
+    "id": "q_g6_b37_2",
+    "skill": "g6_b37",
+    "type": "multiple_choice",
+    "question": "Ghi chép quan sát nên có:",
+    "choices": [
+      "Nơi sống, cách di chuyển, thức ăn",
+      "Chỉ chữ ký",
+      "Không cần thời gian",
+      "Chỉ màu áo"
+    ],
+    "answer": "Nơi sống, cách di chuyển, thức ăn",
+    "hint": "Sổ tay tự nhiên."
+  },
+  {
+    "id": "q_g6_b37_3",
+    "skill": "g6_b37",
+    "type": "multiple_choice",
+    "question": "Côn trùng có:",
+    "choices": [
+      "Lớp vỏ cứng bảo vệ",
+      "Lông vũ",
+      "Vú nuôi con",
+      "Mang cá"
+    ],
+    "answer": "Lớp vỏ cứng bảo vệ",
+    "hint": "Đặc điểm nhóm côn trùng."
+  },
+  {
+    "id": "q_g6_b38_1",
+    "skill": "g6_b38",
+    "type": "multiple_choice",
+    "question": "Đa dạng sinh học gồm:",
+    "choices": [
+      "Đa dạng gen, loài, hệ sinh thái",
+      "Chỉ một loài",
+      "Chỉ đá và cát",
+      "Chỉ khí quyển"
+    ],
+    "answer": "Đa dạng gen, loài, hệ sinh thái",
+    "hint": "Ba cấp độ đa dạng."
+  },
+  {
+    "id": "q_g6_b38_2",
+    "skill": "g6_b38",
+    "type": "multiple_choice",
+    "question": "Mất rừng làm:",
+    "choices": [
+      "Giảm môi trường sống và loài",
+      "Tăng vô hạn loài",
+      "Không ảnh hưởng",
+      "Chỉ tăng đá"
+    ],
+    "answer": "Giảm môi trường sống và loài",
+    "hint": "Nguy cơ tuyệt chủng."
+  },
+  {
+    "id": "q_g6_b38_3",
+    "skill": "g6_b38",
+    "type": "multiple_choice",
+    "question": "Bảo vệ đa dạng sinh học:",
+    "choices": [
+      "Bảo vệ nguồn gen và hệ sinh thái",
+      "Đốt rừng trồng lại một cây",
+      "Xả rác tự do",
+      "Săn bắt bừa bãi"
+    ],
+    "answer": "Bảo vệ nguồn gen và hệ sinh thái",
+    "hint": "Phát triển bền vững."
+  },
+  {
+    "id": "q_g6_b39_1",
+    "skill": "g6_b39",
+    "type": "multiple_choice",
+    "question": "Khảo sát sinh vật địa phương giúp:",
+    "choices": [
+      "Hiểu mối liên hệ sinh vật – môi trường",
+      "Chỉ để giết sinh vật",
+      "Không có mục đích",
+      "Chỉ chụp ảnh không ghi chép"
+    ],
+    "answer": "Hiểu mối liên hệ sinh vật – môi trường",
+    "hint": "Học từ thiên nhiên."
+  },
+  {
+    "id": "q_g6_b39_2",
+    "skill": "g6_b39",
+    "type": "multiple_choice",
+    "question": "Hành động bảo vệ thiên nhiên:",
+    "choices": [
+      "Không xả rác, trồng cây",
+      "Phá tổ chim",
+      "Đốt rác rừng",
+      "Khai thác trái phép"
+    ],
+    "answer": "Không xả rác, trồng cây",
+    "hint": "Trách nhiệm cộng đồng."
+  },
+  {
+    "id": "q_g6_b39_3",
+    "skill": "g6_b39",
+    "type": "multiple_choice",
+    "question": "Sổ quan sát thiên nhiên nên ghi:",
+    "choices": [
+      "Thời tiết, loài gặp, hành vi",
+      "Chỉ điểm số",
+      "Không cần ngày tháng",
+      "Chỉ lời chúc"
+    ],
+    "answer": "Thời tiết, loài gặp, hành vi",
+    "hint": "Phương pháp khoa học."
+  },
+  {
+    "id": "q_g7_b01_1",
+    "skill": "g7_b01",
+    "type": "multiple_choice",
+    "question": "Quy trình nghiên cứu KHTN đúng:",
+    "choices": [
+      "Quan sát → giả thuyết → thí nghiệm → kết luận",
+      "Kết luận trước khi thí nghiệm",
+      "Chỉ học thuộc",
+      "Không ghi chép"
+    ],
+    "answer": "Quan sát → giả thuyết → thí nghiệm → kết luận",
+    "hint": "Phương pháp khoa học."
+  },
+  {
+    "id": "q_g7_b01_2",
+    "skill": "g7_b01",
+    "type": "multiple_choice",
+    "question": "Sổ tay lab cần ghi:",
+    "choices": [
+      "Số liệu, hình vẽ, điều kiện thí nghiệm",
+      "Chỉ tên bạn",
+      "Không cần ngày",
+      "Chỉ màu bút"
+    ],
+    "answer": "Số liệu, hình vẽ, điều kiện thí nghiệm",
+    "hint": "Tái lập thí nghiệm."
+  },
+  {
+    "id": "q_g7_b01_3",
+    "skill": "g7_b01",
+    "type": "multiple_choice",
+    "question": "Giả thuyết là:",
+    "choices": [
+      "Dự đoán có thể kiểm chứng",
+      "Kết luận cuối cùng",
+      "Luật vĩnh viễn",
+      "Chỉ ý kiến cá nhân"
+    ],
+    "answer": "Dự đoán có thể kiểm chứng",
+    "hint": "Cần thí nghiệm kiểm tra."
+  },
+  {
+    "id": "q_g7_b21_1",
+    "skill": "g7_b21",
+    "type": "multiple_choice",
+    "question": "Trao đổi chất ở sinh vật là:",
+    "choices": [
+      "Trao đổi chất và năng lượng với môi trường",
+      "Chỉ ăn một lần",
+      "Không cần nước",
+      "Chỉ xảy ra ban ngày"
+    ],
+    "answer": "Trao đổi chất và năng lượng với môi trường",
+    "hint": "Đặc trưng sự sống."
+  },
+  {
+    "id": "q_g7_b21_2",
+    "skill": "g7_b21",
+    "type": "multiple_choice",
+    "question": "Chuyển hóa năng lượng ở sinh vật gồm:",
+    "choices": [
+      "Quang hợp và hô hấp",
+      "Chỉ quang hợp",
+      "Chỉ nóng chảy",
+      "Chỉ sự cháy"
+    ],
+    "answer": "Quang hợp và hô hấp",
+    "hint": "Hai quá trình cốt lõi."
+  },
+  {
+    "id": "q_g7_b21_3",
+    "skill": "g7_b21",
+    "type": "multiple_choice",
+    "question": "Sinh vật chết khi:",
+    "choices": [
+      "Ngừng trao đổi chất cần thiết",
+      "Chỉ thiếu ánh sáng một giờ",
+      "Chỉ không có gió",
+      "Chỉ mưa nhiều"
+    ],
+    "answer": "Ngừng trao đổi chất cần thiết",
+    "hint": "Trao đổi chất duy trì sự sống."
+  },
+  {
+    "id": "q_g7_b22_1",
+    "skill": "g7_b22",
+    "type": "multiple_choice",
+    "question": "Quang hợp diễn ra chủ yếu ở:",
+    "choices": [
+      "Lá xanh (lục lạp)",
+      "Rễ",
+      "Vỏ cây",
+      "Hạt khô"
+    ],
+    "answer": "Lá xanh (lục lạp)",
+    "hint": "Clorophyll trong lục lạp."
+  },
+  {
+    "id": "q_g7_b22_2",
+    "skill": "g7_b22",
+    "type": "multiple_choice",
+    "question": "Sản phẩm quang hợp gồm:",
+    "choices": [
+      "Chất hữu cơ và O₂",
+      "Chỉ CO₂",
+      "Chỉ nước thừa",
+      "Chỉ nhiệt không"
+    ],
+    "answer": "Chất hữu cơ và O₂",
+    "hint": "Công thức tổng quát SGK."
+  },
+  {
+    "id": "q_g7_b22_3",
+    "skill": "g7_b22",
+    "type": "multiple_choice",
+    "question": "Quang hợp cần:",
+    "choices": [
+      "Ánh sáng, CO₂, nước",
+      "Chỉ không khí",
+      "Chỉ đất",
+      "Chỉ bóng tối"
+    ],
+    "answer": "Ánh sáng, CO₂, nước",
+    "hint": "Điều kiện cơ bản."
+  },
+  {
+    "id": "q_g7_b23_1",
+    "skill": "g7_b23",
+    "type": "multiple_choice",
+    "question": "Cây trong tối lâu ngày thường:",
+    "choices": [
+      "Vàng lá, còi cọc",
+      "Quang hợp mạnh hơn",
+      "Không hô hấp",
+      "Không cần nước"
+    ],
+    "answer": "Vàng lá, còi cọc",
+    "hint": "Thiếu ánh sáng giảm quang hợp."
+  },
+  {
+    "id": "q_g7_b23_2",
+    "skill": "g7_b23",
+    "type": "multiple_choice",
+    "question": "Tăng cường CO₂ (trong giới hạn) thường:",
+    "choices": [
+      "Tăng quang hợp",
+      "Dừng hô hấp",
+      "Làm cây chết ngay",
+      "Không ảnh hưởng"
+    ],
+    "answer": "Tăng quang hợp",
+    "hint": "CO₂ là nguyên liệu quang hợp."
+  },
+  {
+    "id": "q_g7_b23_3",
+    "skill": "g7_b23",
+    "type": "multiple_choice",
+    "question": "Nhiệt độ ảnh hưởng quang hợp vì:",
+    "choices": [
+      "Enzyme hoạt động phụ thuộc nhiệt độ",
+      "Chỉ thay màu lá",
+      "Chỉ ảnh hưởng rễ",
+      "Không liên quan"
+    ],
+    "answer": "Enzyme hoạt động phụ thuộc nhiệt độ",
+    "hint": "Quá nóng/lạnh giảm hiệu suất."
+  },
+  {
+    "id": "q_g7_b24_1",
+    "skill": "g7_b24",
+    "type": "multiple_choice",
+    "question": "Chứng minh quang hợp cần ánh sáng bằng cách:",
+    "choices": [
+      "Che một phần lá, so sánh màu",
+      "Đốt lá",
+      "Ngâm rễ trong nước",
+      "Không tưới cây"
+    ],
+    "answer": "Che một phần lá, so sánh màu",
+    "hint": "Biến số độc lập: ánh sáng."
+  },
+  {
+    "id": "q_g7_b24_2",
+    "skill": "g7_b24",
+    "type": "multiple_choice",
+    "question": "Lá bị che kín ánh sáng thường:",
+    "choices": [
+      "Kém xanh hơn",
+      "Xanh hơn",
+      "Không đổi",
+      "Biến thành rễ"
+    ],
+    "answer": "Kém xanh hơn",
+    "hint": "Giảm clorophyll."
+  },
+  {
+    "id": "q_g7_b24_3",
+    "skill": "g7_b24",
+    "type": "multiple_choice",
+    "question": "Thí nghiệm quang hợp cần:",
+    "choices": [
+      "Cùng loại cây, cùng điều kiện nước",
+      "Mỗi cây một loài",
+      "Không ghi chép",
+      "Chỉ làm một ngày"
+    ],
+    "answer": "Cùng loại cây, cùng điều kiện nước",
+    "hint": "Kiểm soát biến số."
+  },
+  {
+    "id": "q_g7_b25_1",
+    "skill": "g7_b25",
+    "type": "multiple_choice",
+    "question": "Hô hấp tế bào giải phóng:",
+    "choices": [
+      "Năng lượng (ATP)",
+      "Chỉ ánh sáng",
+      "Chỉ clorophyll",
+      "Chỉ oxy thừa vô hạn"
+    ],
+    "answer": "Năng lượng (ATP)",
+    "hint": "Phân hủy chất hữu cơ."
+  },
+  {
+    "id": "q_g7_b25_2",
+    "skill": "g7_b25",
+    "type": "multiple_choice",
+    "question": "Hô hấp hiếu khí cần:",
+    "choices": [
+      "Oxy",
+      "Chỉ CO₂",
+      "Chỉ ánh sáng",
+      "Chỉ nước đá"
+    ],
+    "answer": "Oxy",
+    "hint": "Phản ứng có O₂."
+  },
+  {
+    "id": "q_g7_b25_3",
+    "skill": "g7_b25",
+    "type": "multiple_choice",
+    "question": "Hô hấp tế bào xảy ra:",
+    "choices": [
+      "Mọi tế bào sống, mọi lúc",
+      "Chỉ ban ngày",
+      "Chỉ ở lá",
+      "Chỉ khi ngủ"
+    ],
+    "answer": "Mọi tế bào sống, mọi lúc",
+    "hint": "Khác với quang hợp (chủ yếu ban ngày)."
+  },
+  {
+    "id": "q_g7_b26_1",
+    "skill": "g7_b26",
+    "type": "multiple_choice",
+    "question": "Tăng nhiệt độ (trong giới hạn) thường:",
+    "choices": [
+      "Tăng tốc độ hô hấp",
+      "Dừng hô hấp hoàn toàn",
+      "Chỉ tăng quang hợp",
+      "Không ảnh hưởng enzyme"
+    ],
+    "answer": "Tăng tốc độ hô hấp",
+    "hint": "Enzyme hoạt động nhanh hơn."
+  },
+  {
+    "id": "q_g7_b26_2",
+    "skill": "g7_b26",
+    "type": "multiple_choice",
+    "question": "Thiếu O₂ làm:",
+    "choices": [
+      "Giảm hô hấp hiếu khí",
+      "Tăng quang hợp vô hạn",
+      "Cây không cần nước",
+      "Tế bào không cần ATP"
+    ],
+    "answer": "Giảm hô hấp hiếu khí",
+    "hint": "O₂ là chất nhận electron."
+  },
+  {
+    "id": "q_g7_b26_3",
+    "skill": "g7_b26",
+    "type": "multiple_choice",
+    "question": "Hô hấp kỵ khí:",
+    "choices": [
+      "Không cần O₂ (sơ lược)",
+      "Luôn cần ánh sáng",
+      "Chỉ ở động vật",
+      "Giống quang hợp"
+    ],
+    "answer": "Không cần O₂ (sơ lược)",
+    "hint": "Một dạng hô hấp tế bào."
+  },
+  {
+    "id": "q_g7_b27_1",
+    "skill": "g7_b27",
+    "type": "multiple_choice",
+    "question": "Thực vật hô hấp:",
+    "choices": [
+      "Cả ngày lẫn đêm",
+      "Chỉ ban đêm",
+      "Chỉ khi có hoa",
+      "Không bao giờ"
+    ],
+    "answer": "Cả ngày lẫn đêm",
+    "hint": "Hô hấp liên tục."
+  },
+  {
+    "id": "q_g7_b27_2",
+    "skill": "g7_b27",
+    "type": "multiple_choice",
+    "question": "Bọc kín nhánh cây có lá giúp chứng minh:",
+    "choices": [
+      "Hô hấp tạo hơi ẩm",
+      "Chỉ quang hợp",
+      "Cây không thở",
+      "Chỉ thoát hơi nước"
+    ],
+    "answer": "Hô hấp tạo hơi ẩm",
+    "hint": "Thí nghiệm SGK."
+  },
+  {
+    "id": "q_g7_b27_3",
+    "skill": "g7_b27",
+    "type": "multiple_choice",
+    "question": "Ban ngày cây vừa:",
+    "choices": [
+      "Quang hợp vừa hô hấp",
+      "Chỉ hô hấp",
+      "Không trao đổi khí",
+      "Chỉ thải CO₂"
+    ],
+    "answer": "Quang hợp vừa hô hấp",
+    "hint": "Hai quá trình song song."
+  },
+  {
+    "id": "q_g7_b28_1",
+    "skill": "g7_b28",
+    "type": "multiple_choice",
+    "question": "Động vật trao đổi khí:",
+    "choices": [
+      "Hít O₂, thải CO₂",
+      "Hít CO₂, thải O₂",
+      "Không trao đổi",
+      "Chỉ ban ngày"
+    ],
+    "answer": "Hít O₂, thải CO₂",
+    "hint": "Hô hấp khí."
+  },
+  {
+    "id": "q_g7_b28_2",
+    "skill": "g7_b28",
+    "type": "multiple_choice",
+    "question": "Ban ngày cây xanh trong ánh sáng mạnh:",
+    "choices": [
+      "Thải O₂ nhiều (quang hợp > hô hấp)",
+      "Không thải O₂",
+      "Chỉ hít O₂",
+      "Không hô hấp"
+    ],
+    "answer": "Thải O₂ nhiều (quang hợp > hô hấp)",
+    "hint": "Cân bằng khí quyển."
+  },
+  {
+    "id": "q_g7_b28_3",
+    "skill": "g7_b28",
+    "type": "multiple_choice",
+    "question": "Rừng góp phần:",
+    "choices": [
+      "Điều hòa O₂ và CO₂",
+      "Chỉ tạo đá",
+      "Giảm O₂ vĩnh viễn",
+      "Không liên quan khí quyển"
+    ],
+    "answer": "Điều hòa O₂ và CO₂",
+    "hint": "Vai trò sinh thái."
+  },
+  {
+    "id": "q_g7_b29_1",
+    "skill": "g7_b29",
+    "type": "multiple_choice",
+    "question": "Nước trong cơ thể sinh vật:",
+    "choices": [
+      "Dung môi, tham gia phản ứng",
+      "Chỉ để nặng thêm",
+      "Không cần thiết",
+      "Chỉ ở rễ"
+    ],
+    "answer": "Dung môi, tham gia phản ứng",
+    "hint": "Quang hợp, hô hấp cần nước."
+  },
+  {
+    "id": "q_g7_b29_2",
+    "skill": "g7_b29",
+    "type": "multiple_choice",
+    "question": "Khoáng N, P, K cần cho:",
+    "choices": [
+      "Sinh trưởng cây",
+      "Chỉ làm cứng đá",
+      "Chỉ tạo gió",
+      "Không liên quan dinh dưỡng"
+    ],
+    "answer": "Sinh trưởng cây",
+    "hint": "Phân bón NPK."
+  },
+  {
+    "id": "q_g7_b29_3",
+    "skill": "g7_b29",
+    "type": "multiple_choice",
+    "question": "Thiếu dinh dưỡng cây thường:",
+    "choices": [
+      "Còi, vàng lá",
+      "Quang hợp vô hạn",
+      "Không hô hấp",
+      "Không cần nước"
+    ],
+    "answer": "Còi, vàng lá",
+    "hint": "Dấu hiệu suy dinh dưỡng."
+  },
+  {
+    "id": "q_g7_b30_1",
+    "skill": "g7_b30",
+    "type": "multiple_choice",
+    "question": "Rễ thực vật chủ yếu:",
+    "choices": [
+      "Hút nước và muối khoáng",
+      "Quang hợp",
+      "Thoát hơi nước chính",
+      "Sản xuất O₂ chính"
+    ],
+    "answer": "Hút nước và muối khoáng",
+    "hint": "Chức năng rễ."
+  },
+  {
+    "id": "q_g7_b30_2",
+    "skill": "g7_b30",
+    "type": "multiple_choice",
+    "question": "Thoát hơi nước chủ yếu ở:",
+    "choices": [
+      "Lá (khí khổ bốn)",
+      "Rễ",
+      "Hạt",
+      "Vỏ thân"
+    ],
+    "answer": "Lá (khí khổ bốn)",
+    "hint": "Điều hòa nước cây."
+  },
+  {
+    "id": "q_g7_b30_3",
+    "skill": "g7_b30",
+    "type": "multiple_choice",
+    "question": "Mạch dẫn trong thân:",
+    "choices": [
+      "Vận chuyển nước và chất",
+      "Chỉ chứa không khí",
+      "Chỉ quang hợp",
+      "Không có chức năng"
+    ],
+    "answer": "Vận chuyển nước và chất",
+    "hint": "Mạch gỗ, mạch ray (sơ lược)."
+  },
+  {
+    "id": "q_g7_b31_1",
+    "skill": "g7_b31",
+    "type": "multiple_choice",
+    "question": "Tiêu hóa ở động vật biến:",
+    "choices": [
+      "Thức ăn thành chất hấp thu",
+      "CO₂ thành O₂",
+      "Nước thành đá",
+      "Protein thành clorophyll"
+    ],
+    "answer": "Thức ăn thành chất hấp thu",
+    "hint": "Enzyme tiêu hóa."
+  },
+  {
+    "id": "q_g7_b31_2",
+    "skill": "g7_b31",
+    "type": "multiple_choice",
+    "question": "Hấp thu chất dinh dưỡng chủ yếu ở:",
+    "choices": [
+      "Ruột non",
+      "Da",
+      "Móng",
+      "Tóc"
+    ],
+    "answer": "Ruột non",
+    "hint": "Vào máu nuôi cơ thể."
+  },
+  {
+    "id": "q_g7_b31_3",
+    "skill": "g7_b31",
+    "type": "multiple_choice",
+    "question": "Máu vận chuyển:",
+    "choices": [
+      "Chất dinh dưỡng đến tế bào",
+      "Chỉ khí CO₂ duy nhất",
+      "Chỉ nước mưa",
+      "Không liên quan dinh dưỡng"
+    ],
+    "answer": "Chất dinh dưỡng đến tế bào",
+    "hint": "Tuần hoàn nội tiêu."
+  },
+  {
+    "id": "q_g7_b32_1",
+    "skill": "g7_b32",
+    "type": "multiple_choice",
+    "question": "Ngâm cành có lá trong nước nhuộm chứng minh:",
+    "choices": [
+      "Nước vận chuyển lên lá",
+      "Rễ quang hợp",
+      "Lá không thoát hơi",
+      "Thân không có mạch"
+    ],
+    "answer": "Nước vận chuyển lên lá",
+    "hint": "Hướng vận chuyển nước."
+  },
+  {
+    "id": "q_g7_b32_2",
+    "skill": "g7_b32",
+    "type": "multiple_choice",
+    "question": "Thoát hơi nước tạo:",
+    "choices": [
+      "Lực kéo dịch lên thân",
+      "Chỉ làm khô đất",
+      "Chỉ quang hợp",
+      "Protein mới"
+    ],
+    "answer": "Lực kéo dịch lên thân",
+    "hint": "Hút nước từ rễ."
+  },
+  {
+    "id": "q_g7_b32_3",
+    "skill": "g7_b32",
+    "type": "multiple_choice",
+    "question": "Thí nghiệm vận chuyển nước cần:",
+    "choices": [
+      "Cành tươi, có lá",
+      "Cành khô không lá",
+      "Chỉ hạt",
+      "Chỉ rễ cắt rời"
+    ],
+    "answer": "Cành tươi, có lá",
+    "hint": "Thoát hơi nước cần lá."
+  },
+  {
+    "id": "q_g7_b33_1",
+    "skill": "g7_b33",
+    "type": "multiple_choice",
+    "question": "Cảm ứng ở sinh vật là:",
+    "choices": [
+      "Phản ứng với kích thích môi trường",
+      "Chỉ ngủ",
+      "Chỉ quang hợp",
+      "Chỉ phân hủy đá"
+    ],
+    "answer": "Phản ứng với kích thích môi trường",
+    "hint": "Hướng hóa, nhiễm sắc..."
+  },
+  {
+    "id": "q_g7_b33_2",
+    "skill": "g7_b33",
+    "type": "multiple_choice",
+    "question": "Cây mọc về phía sáng gọi là:",
+    "choices": [
+      "Hướng hóa (phototropism)",
+      "Hô hấp",
+      "Sinh sản vô tính",
+      "Tiêu hóa"
+    ],
+    "answer": "Hướng hóa (phototropism)",
+    "hint": "Cảm ứng với ánh sáng."
+  },
+  {
+    "id": "q_g7_b33_3",
+    "skill": "g7_b33",
+    "type": "multiple_choice",
+    "question": "Tập tính động vật là:",
+    "choices": [
+      "Cách phản ứng lặp lại theo kinh nghiệm hoặc bẩm sinh",
+      "Chỉ quang hợp",
+      "Chỉ phân chia tế bào",
+      "Chỉ hút nước"
+    ],
+    "answer": "Cách phản ứng lặp lại theo kinh nghiệm hoặc bẩm sinh",
+    "hint": "Di cư, kiếm ăn..."
+  },
+  {
+    "id": "q_g7_b34_1",
+    "skill": "g7_b34",
+    "type": "multiple_choice",
+    "question": "Trồng cây đủ ánh sáng dựa trên:",
+    "choices": [
+      "Cảm ứng hướng hóa",
+      "Chỉ may mắn",
+      "Không liên quan sinh học",
+      "Chỉ phản ứng hóa học vô cơ"
+    ],
+    "answer": "Cảm ứng hướng hóa",
+    "hint": "Ứng dụng thực tiễn."
+  },
+  {
+    "id": "q_g7_b34_2",
+    "skill": "g7_b34",
+    "type": "multiple_choice",
+    "question": "Nhà kính điều chỉnh ánh sáng giúp:",
+    "choices": [
+      "Sinh trưởng cây tốt hơn",
+      "Cây không hô hấp",
+      "Cây không cần nước",
+      "Loại bỏ quang hợp"
+    ],
+    "answer": "Sinh trưởng cây tốt hơn",
+    "hint": "Kiểm soát môi trường."
+  },
+  {
+    "id": "q_g7_b34_3",
+    "skill": "g7_b34",
+    "type": "multiple_choice",
+    "question": "Giảm stress động vật trong chăn nuôi:",
+    "choices": [
+      "Cải thiện sinh trưởng, sinh sản",
+      "Không ảnh hưởng",
+      "Chỉ làm giảm ăn vô hạn",
+      "Chỉ liên quan Vật lí"
+    ],
+    "answer": "Cải thiện sinh trưởng, sinh sản",
+    "hint": "Môi trường sống phù hợp."
+  },
+  {
+    "id": "q_g7_b35_1",
+    "skill": "g7_b35",
+    "type": "multiple_choice",
+    "question": "Quan sát mầm cong về ánh sáng là TH về:",
+    "choices": [
+      "Hướng hóa",
+      "Quang hợp",
+      "Sinh sản",
+      "Tiêu hóa"
+    ],
+    "answer": "Hướng hóa",
+    "hint": "Cảm ứng ánh sáng."
+  },
+  {
+    "id": "q_g7_b35_2",
+    "skill": "g7_b35",
+    "type": "multiple_choice",
+    "question": "Khi ghi TH cảm ứng nên:",
+    "choices": [
+      "Ghi thời gian, điều kiện kích thích",
+      "Không vẽ hình",
+      "Chỉ chụp selfie",
+      "Không so sánh"
+    ],
+    "answer": "Ghi thời gian, điều kiện kích thích",
+    "hint": "Sổ tay khoa học."
+  },
+  {
+    "id": "q_g7_b35_3",
+    "skill": "g7_b35",
+    "type": "multiple_choice",
+    "question": "Cây trong tối so với ánh sáng một phía:",
+    "choices": [
+      "Mọc thẳng hoặc vượt về sáng",
+      "Không mọc",
+      "Chỉ mọc rễ",
+      "Không phản ứng"
+    ],
+    "answer": "Mọc thẳng hoặc vượt về sáng",
+    "hint": "Tìm nguồn sáng."
+  },
+  {
+    "id": "q_g7_b36_1",
+    "skill": "g7_b36",
+    "type": "multiple_choice",
+    "question": "Sinh trưởng là:",
+    "choices": [
+      "Tăng kích thước, số lượng tế bào",
+      "Chỉ héo úa",
+      "Chỉ quang hợp",
+      "Chỉ thoát hơi nước"
+    ],
+    "answer": "Tăng kích thước, số lượng tế bào",
+    "hint": "Khác phát triển."
+  },
+  {
+    "id": "q_g7_b36_2",
+    "skill": "g7_b36",
+    "type": "multiple_choice",
+    "question": "Phát triển là:",
+    "choices": [
+      "Hoàn thiện cấu trúc, chức năng",
+      "Chỉ to hơn",
+      "Chỉ giảm cân",
+      "Chỉ hô hấp"
+    ],
+    "answer": "Hoàn thiện cấu trúc, chức năng",
+    "hint": "Ra hoa, chín quả..."
+  },
+  {
+    "id": "q_g7_b36_3",
+    "skill": "g7_b36",
+    "type": "multiple_choice",
+    "question": "Cây cần để sinh trưởng:",
+    "choices": [
+      "Nước, ánh sáng, dinh dưỡng",
+      "Chỉ CO₂",
+      "Chỉ gió mạnh",
+      "Không cần gì"
+    ],
+    "answer": "Nước, ánh sáng, dinh dưỡng",
+    "hint": "Điều kiện môi trường."
+  },
+  {
+    "id": "q_g7_b37_1",
+    "skill": "g7_b37",
+    "type": "multiple_choice",
+    "question": "Chọn giống cây tốt giúp:",
+    "choices": [
+      "Năng suất cao, chất lượng tốt",
+      "Giảm quang hợp",
+      "Cây không cần nước",
+      "Không liên quan gen"
+    ],
+    "answer": "Năng suất cao, chất lượng tốt",
+    "hint": "Ứng dụng di truyền sơ lược."
+  },
+  {
+    "id": "q_g7_b37_2",
+    "skill": "g7_b37",
+    "type": "multiple_choice",
+    "question": "Bón phân cân đối:",
+    "choices": [
+      "Cung cấp N, P, K phù hợp",
+      "Chỉ tưới nước",
+      "Không ảnh hưởng sinh trưởng",
+      "Chỉ làm đất cứng"
+    ],
+    "answer": "Cung cấp N, P, K phù hợp",
+    "hint": "Dinh dưỡng khoáng."
+  },
+  {
+    "id": "q_g7_b37_3",
+    "skill": "g7_b37",
+    "type": "multiple_choice",
+    "question": "Cắt tỉa cành ăn quả:",
+    "choices": [
+      "Kích thích ra hoa, quả",
+      "Dừng sinh trưởng hoàn toàn",
+      "Làm cây chết",
+      "Chỉ trang trí"
+    ],
+    "answer": "Kích thích ra hoa, quả",
+    "hint": "Kỹ thuật canh tác."
+  },
+  {
+    "id": "q_g7_b38_1",
+    "skill": "g7_b38",
+    "type": "multiple_choice",
+    "question": "Theo dõi sinh trưởng hạt nên:",
+    "choices": [
+      "Đo chiều cao định kỳ, vẽ biểu đồ",
+      "Chỉ nhìn một lần",
+      "Không ghi ngày",
+      "Không cần nước"
+    ],
+    "answer": "Đo chiều cao định kỳ, vẽ biểu đồ",
+    "hint": "Dữ liệu theo thời gian."
+  },
+  {
+    "id": "q_g7_b38_2",
+    "skill": "g7_b38",
+    "type": "multiple_choice",
+    "question": "Cây thiếu nước so cây đủ nước:",
+    "choices": [
+      "Sinh trưởng chậm hơn",
+      "Sinh trưởng nhanh hơn vô hạn",
+      "Không khác",
+      "Không nảy mầm"
+    ],
+    "answer": "Sinh trưởng chậm hơn",
+    "hint": "Nước cần cho sinh trưởng."
+  },
+  {
+    "id": "q_g7_b38_3",
+    "skill": "g7_b38",
+    "type": "multiple_choice",
+    "question": "Nảy mầm là giai đoạn:",
+    "choices": [
+      "Sinh trưởng phát triển đầu tiên",
+      "Chỉ sinh sản",
+      "Chỉ hô hấp kỵ khí",
+      "Chỉ quang hợp ban đêm"
+    ],
+    "answer": "Sinh trưởng phát triển đầu tiên",
+    "hint": "Hạt → cây con."
+  },
+  {
+    "id": "q_g7_b39_1",
+    "skill": "g7_b39",
+    "type": "multiple_choice",
+    "question": "Sinh sản vô tính:",
+    "choices": [
+      "Không qua giao tử",
+      "Luôn cần hoa",
+      "Chỉ ở động vật",
+      "Tạo đa dạng gen cao"
+    ],
+    "answer": "Không qua giao tử",
+    "hint": "Con giống bố mẹ."
+  },
+  {
+    "id": "q_g7_b39_2",
+    "skill": "g7_b39",
+    "type": "multiple_choice",
+    "question": "Ví dụ sinh sản vô tính:",
+    "choices": [
+      "Khoai tây mọc mắt",
+      "Thụ phấn hoa",
+      "Đẻ trứng có trứng",
+      "Thụ tinh"
+    ],
+    "answer": "Khoai tây mọc mắt",
+    "hint": "Một cơ thể tạo con."
+  },
+  {
+    "id": "q_g7_b39_3",
+    "skill": "g7_b39",
+    "type": "multiple_choice",
+    "question": "Sinh sản vô tính con:",
+    "choices": [
+      "Giống hệt bố mẹ về gen",
+      "Luôn khác hoàn toàn",
+      "Không có gen",
+      "Chỉ là virus"
+    ],
+    "answer": "Giống hệt bố mẹ về gen",
+    "hint": "Không tái tổ hợp gen."
+  },
+  {
+    "id": "q_g7_b40_1",
+    "skill": "g7_b40",
+    "type": "multiple_choice",
+    "question": "Sinh sản hữu tính cần:",
+    "choices": [
+      "Giao tử đực và cái",
+      "Chỉ một tế bào",
+      "Chỉ nước",
+      "Chỉ gió"
+    ],
+    "answer": "Giao tử đực và cái",
+    "hint": "Thụ tinh tạo hợp tử."
+  },
+  {
+    "id": "q_g7_b40_2",
+    "skill": "g7_b40",
+    "type": "multiple_choice",
+    "question": "Thụ phấn ở thực vật có hoa là:",
+    "choices": [
+      "Chuyển phấn hoa đến noãn",
+      "Hút nước rễ",
+      "Quang hợp",
+      "Thoát hơi nước"
+    ],
+    "answer": "Chuyển phấn hoa đến noãn",
+    "hint": "Bước sinh sản hữu tính."
+  },
+  {
+    "id": "q_g7_b40_3",
+    "skill": "g7_b40",
+    "type": "multiple_choice",
+    "question": "Sinh sản hữu tính giúp:",
+    "choices": [
+      "Tạo đa dạng gen thế hệ sau",
+      "Con luôn giống hệt",
+      "Không cần hoa",
+      "Chỉ một giới"
+    ],
+    "answer": "Tạo đa dạng gen thế hệ sau",
+    "hint": "Tái tổ hợp gen."
+  },
+  {
+    "id": "q_g7_b41_1",
+    "skill": "g7_b41",
+    "type": "multiple_choice",
+    "question": "Ngày dài/ngắn ảnh hưởng:",
+    "choices": [
+      "Ra hoa một số cây",
+      "Chỉ quang hợp ban đêm",
+      "Không liên quan sinh sản",
+      "Chỉ hô hấp kỵ khí"
+    ],
+    "answer": "Ra hoa một số cây",
+    "hint": "Điều hòa sinh sản thực vật."
+  },
+  {
+    "id": "q_g7_b41_2",
+    "skill": "g7_b41",
+    "type": "multiple_choice",
+    "question": "Hormone sinh sản:",
+    "choices": [
+      "Điều hòa hoạt động sinh sản",
+      "Chỉ là protein tiêu hóa",
+      "Chỉ clorophyll",
+      "Không có ở sinh vật"
+    ],
+    "answer": "Điều hòa hoạt động sinh sản",
+    "hint": "Nội tiết (sơ lược)."
+  },
+  {
+    "id": "q_g7_b41_3",
+    "skill": "g7_b41",
+    "type": "multiple_choice",
+    "question": "Nhiệt độ ảnh hưởng:",
+    "choices": [
+      "Nảy mầm hạt",
+      "Chỉ màu lá",
+      "Chỉ gió",
+      "Không ảnh hưởng gen"
+    ],
+    "answer": "Nảy mầm hạt",
+    "hint": "Điều kiện môi trường."
+  },
+  {
+    "id": "q_g7_b42_1",
+    "skill": "g7_b42",
+    "type": "multiple_choice",
+    "question": "Cơ thể sinh vật là thể thống nhất nghĩa là:",
+    "choices": [
+      "Các bộ phận phối hợp",
+      "Mỗi bộ phận sống riêng",
+      "Không trao đổi chất",
+      "Chỉ một tế bào"
+    ],
+    "answer": "Các bộ phận phối hợp",
+    "hint": "Hệ thống sống."
+  },
+  {
+    "id": "q_g7_b42_2",
+    "skill": "g7_b42",
+    "type": "multiple_choice",
+    "question": "Tim hỏng ảnh hưởng:",
+    "choices": [
+      "Toàn bộ cơ thể",
+      "Chỉ tóc",
+      "Chỉ móng",
+      "Không ảnh hưởng gì"
+    ],
+    "answer": "Toàn bộ cơ thể",
+    "hint": "Các cơ quan liên kết."
+  },
+  {
+    "id": "q_g7_b42_3",
+    "skill": "g7_b42",
+    "type": "multiple_choice",
+    "question": "Cây có rễ hỏng thường:",
+    "choices": [
+      "Héo vì thiếu nước, dinh dưỡng",
+      "Quang hợp mạnh hơn",
+      "Không hô hấp",
+      "Chỉ ra hoa nhiều"
+    ],
+    "answer": "Héo vì thiếu nước, dinh dưỡng",
+    "hint": "Rễ liên quan toàn thể."
+  },
+  {
+    "id": "q_g8_b30_1",
+    "skill": "g8_b30",
+    "type": "multiple_choice",
+    "question": "Cơ thể người gồm:",
+    "choices": [
+      "Nhiều hệ cơ quan phối hợp",
+      "Chỉ một tế bào",
+      "Chỉ xương",
+      "Chỉ da"
+    ],
+    "answer": "Nhiều hệ cơ quan phối hợp",
+    "hint": "Thể thống nhất."
+  },
+  {
+    "id": "q_g8_b30_2",
+    "skill": "g8_b30",
+    "type": "multiple_choice",
+    "question": "Thứ tự tổ chức:",
+    "choices": [
+      "Tế bào → mô → cơ quan → hệ cơ quan",
+      "Cơ quan → tế bào",
+      "Chỉ mô",
+      "Chỉ hệ"
+    ],
+    "answer": "Tế bào → mô → cơ quan → hệ cơ quan",
+    "hint": "Cấp tổ chức đa bào."
+  },
+  {
+    "id": "q_g8_b30_3",
+    "skill": "g8_b30",
+    "type": "multiple_choice",
+    "question": "Hệ cơ quan là:",
+    "choices": [
+      "Nhiều cơ quan phối hợp",
+      "Một tế bào",
+      "Chỉ xương",
+      "Chỉ máu"
+    ],
+    "answer": "Nhiều cơ quan phối hợp",
+    "hint": "Ví dụ: hệ tiêu hóa."
+  },
+  {
+    "id": "q_g8_b31_1",
+    "skill": "g8_b31",
+    "type": "multiple_choice",
+    "question": "Cơ co duỗi tác dụng lên:",
+    "choices": [
+      "Xương",
+      "Tim",
+      "Phổi",
+      "Thận"
+    ],
+    "answer": "Xương",
+    "hint": "Làm xương di chuyển."
+  },
+  {
+    "id": "q_g8_b31_2",
+    "skill": "g8_b31",
+    "type": "multiple_choice",
+    "question": "Khớp giúp:",
+    "choices": [
+      "Nối và cho xương cử động",
+      "Bơm máu",
+      "Hô hấp",
+      "Tiêu hóa"
+    ],
+    "answer": "Nối và cho xương cử động",
+    "hint": "Ví dụ: khớp khuỷu."
+  },
+  {
+    "id": "q_g8_b31_3",
+    "skill": "g8_b31",
+    "type": "multiple_choice",
+    "question": "Hệ vận động gồm:",
+    "choices": [
+      "Xương, khớp, cơ",
+      "Chỉ da",
+      "Chỉ não",
+      "Chỉ phế nang"
+    ],
+    "answer": "Xương, khớp, cơ",
+    "hint": "Ba thành phần chính."
+  },
+  {
+    "id": "q_g8_b32_1",
+    "skill": "g8_b32",
+    "type": "multiple_choice",
+    "question": "Ruột non chủ yếu:",
+    "choices": [
+      "Hấp thu chất dinh dưỡng",
+      "Nghiền thức ăn",
+      "Tiết mồ hôi",
+      "Lọc máu"
+    ],
+    "answer": "Hấp thu chất dinh dưỡng",
+    "hint": "Sau tiêu hóa."
+  },
+  {
+    "id": "q_g8_b32_2",
+    "skill": "g8_b32",
+    "type": "multiple_choice",
+    "question": "Dạ dày có:",
+    "choices": [
+      "Axit và enzyme tiêu protein",
+      "Chỉ khí O₂",
+      "Chỉ xương",
+      "Chỉ hormone sinh sản"
+    ],
+    "answer": "Axit và enzyme tiêu protein",
+    "hint": "Môi trường axit."
+  },
+  {
+    "id": "q_g8_b32_3",
+    "skill": "g8_b32",
+    "type": "multiple_choice",
+    "question": "Chế độ ăn cân bằng:",
+    "choices": [
+      "Đủ chất, đa dạng thực phẩm",
+      "Chỉ ăn đường",
+      "Bỏ bữa sáng",
+      "Không uống nước"
+    ],
+    "answer": "Đủ chất, đa dạng thực phẩm",
+    "hint": "Dinh dưỡng hợp lý."
+  },
+  {
+    "id": "q_g8_b33_1",
+    "skill": "g8_b33",
+    "type": "multiple_choice",
+    "question": "Tim có vai trò:",
+    "choices": [
+      "Bơm máu",
+      "Tiêu hóa",
+      "Thở khí",
+      "Lọc nước tiểu"
+    ],
+    "answer": "Bơm máu",
+    "hint": "Trung tâm tuần hoàn."
+  },
+  {
+    "id": "q_g8_b33_2",
+    "skill": "g8_b33",
+    "type": "multiple_choice",
+    "question": "Hồng cầu vận chuyển:",
+    "choices": [
+      "Oxy (chủ yếu)",
+      "Chỉ CO₂ duy nhất",
+      "Chỉ mỡ",
+      "Chỉ enzyme"
+    ],
+    "answer": "Oxy (chủ yếu)",
+    "hint": "Nhờ hemoglobin."
+  },
+  {
+    "id": "q_g8_b33_3",
+    "skill": "g8_b33",
+    "type": "multiple_choice",
+    "question": "Động mạch (sơ lược THCS):",
+    "choices": [
+      "Máu đi từ tim ra cơ quan",
+      "Luôn về tim",
+      "Chỉ ở phổi",
+      "Không có máu"
+    ],
+    "answer": "Máu đi từ tim ra cơ quan",
+    "hint": "Nuôi cơ quan."
+  },
+  {
+    "id": "q_g8_b34_1",
+    "skill": "g8_b34",
+    "type": "multiple_choice",
+    "question": "Trao đổi khí ở phổi:",
+    "choices": [
+      "O₂ vào máu, CO₂ ra",
+      "Chỉ hít CO₂",
+      "Không có phế nang",
+      "Chỉ ở dạ dày"
+    ],
+    "answer": "O₂ vào máu, CO₂ ra",
+    "hint": "Hô hấp khí."
+  },
+  {
+    "id": "q_g8_b34_2",
+    "skill": "g8_b34",
+    "type": "multiple_choice",
+    "question": "Chạy nhanh thở gấp vì:",
+    "choices": [
+      "Cơ cần nhiều O₂",
+      "Không hô hấp",
+      "Chỉ quang hợp",
+      "Tim ngừng"
+    ],
+    "answer": "Cơ cần nhiều O₂",
+    "hint": "Hô hấp tế bào tăng."
+  },
+  {
+    "id": "q_g8_b34_3",
+    "skill": "g8_b34",
+    "type": "multiple_choice",
+    "question": "Hút thuốc lá:",
+    "choices": [
+      "Gây hại phổi",
+      "Tốt cho hô hấp",
+      "Không ảnh hưởng",
+      "Chỉ ảnh hưởng da"
+    ],
+    "answer": "Gây hại phổi",
+    "hint": "Phòng bệnh hô hấp."
+  },
+  {
+    "id": "q_g8_b35_1",
+    "skill": "g8_b35",
+    "type": "multiple_choice",
+    "question": "Thận có chức năng:",
+    "choices": [
+      "Lọc máu, tạo nước tiểu",
+      "Bơm máu",
+      "Tiêu hóa",
+      "Nghe âm thanh"
+    ],
+    "answer": "Lọc máu, tạo nước tiểu",
+    "hint": "Hệ bài tiết."
+  },
+  {
+    "id": "q_g8_b35_2",
+    "skill": "g8_b35",
+    "type": "multiple_choice",
+    "question": "Nước tiểu loại bỏ:",
+    "choices": [
+      "Chất thải như ure",
+      "Chỉ O₂",
+      "Chỉ protein hữu ích",
+      "Chỉ glucose bình thường"
+    ],
+    "answer": "Chất thải như ure",
+    "hint": "Sản phẩm chuyển hóa."
+  },
+  {
+    "id": "q_g8_b35_3",
+    "skill": "g8_b35",
+    "type": "multiple_choice",
+    "question": "Uống đủ nước giúp:",
+    "choices": [
+      "Thận hoạt động tốt",
+      "Không cần thận",
+      "Chỉ tăng cân vô hạn",
+      "Ngừng bài tiết"
+    ],
+    "answer": "Thận hoạt động tốt",
+    "hint": "Phòng sỏi thận (sơ lược)."
+  },
+  {
+    "id": "q_g8_b36_1",
+    "skill": "g8_b36",
+    "type": "multiple_choice",
+    "question": "Nội môi trường cần ổn định:",
+    "choices": [
+      "Nhiệt độ, glucose, pH",
+      "Chỉ màu da",
+      "Chỉ chiều cao",
+      "Chỉ tóc"
+    ],
+    "answer": "Nhiệt độ, glucose, pH",
+    "hint": "Điều hòa nội môi trường."
+  },
+  {
+    "id": "q_g8_b36_2",
+    "skill": "g8_b36",
+    "type": "multiple_choice",
+    "question": "Đói lâu thường:",
+    "choices": [
+      "Hạ đường huyết",
+      "Tăng O₂ vô hạn",
+      "Ngừng tim",
+      "Không ảnh hưởng"
+    ],
+    "answer": "Hạ đường huyết",
+    "hint": "Cần năng lượng từ thức ăn."
+  },
+  {
+    "id": "q_g8_b36_3",
+    "skill": "g8_b36",
+    "type": "multiple_choice",
+    "question": "Điều hòa nội môi trường nhờ:",
+    "choices": [
+      "Thận, gan, hormone",
+      "Chỉ xương",
+      "Chỉ tóc",
+      "Chỉ móng"
+    ],
+    "answer": "Thận, gan, hormone",
+    "hint": "Phối hợp nhiều cơ quan."
+  },
+  {
+    "id": "q_g8_b37_1",
+    "skill": "g8_b37",
+    "type": "multiple_choice",
+    "question": "Não có vai trò:",
+    "choices": [
+      "Xử lý thông tin, điều khiển",
+      "Chỉ bơm máu",
+      "Chỉ tiêu hóa",
+      "Chỉ lọc nước tiểu"
+    ],
+    "answer": "Xử lý thông tin, điều khiển",
+    "hint": "Trung tâm thần kinh."
+  },
+  {
+    "id": "q_g8_b37_2",
+    "skill": "g8_b37",
+    "type": "multiple_choice",
+    "question": "Phản xạ là:",
+    "choices": [
+      "Phản ứng nhanh qua tủy",
+      "Suy nghĩ lâu",
+      "Chỉ quang hợp",
+      "Chỉ tiêu hóa"
+    ],
+    "answer": "Phản ứng nhanh qua tủy",
+    "hint": "Cung phản xạ."
+  },
+  {
+    "id": "q_g8_b37_3",
+    "skill": "g8_b37",
+    "type": "multiple_choice",
+    "question": "Giác quan gồm:",
+    "choices": [
+      "Mắt, tai, mũi, lưỡi, da",
+      "Chỉ tim",
+      "Chỉ phổi",
+      "Chỉ xương"
+    ],
+    "answer": "Mắt, tai, mũi, lưỡi, da",
+    "hint": "Tiếp nhận kích thích."
+  },
+  {
+    "id": "q_g8_b38_1",
+    "skill": "g8_b38",
+    "type": "multiple_choice",
+    "question": "Hormone là:",
+    "choices": [
+      "Chất hóa học điều hòa qua máu",
+      "Chỉ protein tiêu hóa",
+      "Chỉ O₂",
+      "Chỉ xương"
+    ],
+    "answer": "Chất hóa học điều hòa qua máu",
+    "hint": "Nội tiết."
+  },
+  {
+    "id": "q_g8_b38_2",
+    "skill": "g8_b38",
+    "type": "multiple_choice",
+    "question": "Insulin giúp:",
+    "choices": [
+      "Hạ glucose máu",
+      "Tăng glucose vô hạn",
+      "Chỉ tiêu hóa xương",
+      "Chỉ thở"
+    ],
+    "answer": "Hạ glucose máu",
+    "hint": "Tuyến tụy tiết insulin."
+  },
+  {
+    "id": "q_g8_b38_3",
+    "skill": "g8_b38",
+    "type": "multiple_choice",
+    "question": "Hệ nội tiết phối hợp với:",
+    "choices": [
+      "Hệ thần kinh",
+      "Chỉ xương",
+      "Chỉ răng",
+      "Không phối hợp"
+    ],
+    "answer": "Hệ thần kinh",
+    "hint": "Điều hòa cơ thể."
+  },
+  {
+    "id": "q_g8_b39_1",
+    "skill": "g8_b39",
+    "type": "multiple_choice",
+    "question": "Da giúp:",
+    "choices": [
+      "Bảo vệ, cảm giác, điều hòa nhiệt",
+      "Chỉ tiêu hóa",
+      "Chỉ bơm máu",
+      "Chỉ thở"
+    ],
+    "answer": "Bảo vệ, cảm giác, điều hòa nhiệt",
+    "hint": "Cơ quan lớn nhất."
+  },
+  {
+    "id": "q_g8_b39_2",
+    "skill": "g8_b39",
+    "type": "multiple_choice",
+    "question": "Trời nóng cơ thể:",
+    "choices": [
+      "Đổ mồ hôi làm mát",
+      "Ngừng hô hấp",
+      "Giảm nhiệt bằng đóng băng",
+      "Không điều hòa"
+    ],
+    "answer": "Đổ mồ hôi làm mát",
+    "hint": "Bay hơi mồ hôi tỏa nhiệt."
+  },
+  {
+    "id": "q_g8_b39_3",
+    "skill": "g8_b39",
+    "type": "multiple_choice",
+    "question": "Nhiệt độ cơ thể người bình thường khoảng:",
+    "choices": [
+      "37°C",
+      "0°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "37°C",
+    "hint": "Ổn định nội môi trường."
+  },
+  {
+    "id": "q_g8_b40_1",
+    "skill": "g8_b40",
+    "type": "multiple_choice",
+    "question": "Thụ tinh là:",
+    "choices": [
+      "Giao tử đực kết hợp trứng",
+      "Chỉ phân chia tế bào da",
+      "Chỉ hô hấp",
+      "Chỉ tiêu hóa"
+    ],
+    "answer": "Giao tử đực kết hợp trứng",
+    "hint": "Tạo hợp tử."
+  },
+  {
+    "id": "q_g8_b40_2",
+    "skill": "g8_b40",
+    "type": "multiple_choice",
+    "question": "Thai nhi phát triển ở:",
+    "choices": [
+      "Tử cung",
+      "Dạ dày",
+      "Phổi",
+      "Xương đùi"
+    ],
+    "answer": "Tử cung",
+    "hint": "Sinh sản người."
+  },
+  {
+    "id": "q_g8_b40_3",
+    "skill": "g8_b40",
+    "type": "multiple_choice",
+    "question": "Chăm sóc sức khỏe sinh sản THCS:",
+    "choices": [
+      "Vệ sinh, tư vấn người lớn",
+      "Tự ý dùng thuốc lạ",
+      "Không cần học",
+      "Bỏ qua vệ sinh"
+    ],
+    "answer": "Vệ sinh, tư vấn người lớn",
+    "hint": "Giáo dục sức khỏe."
+  },
+  {
+    "id": "q_g8_b41_1",
+    "skill": "g8_b41",
+    "type": "multiple_choice",
+    "question": "Nhân tố vô sinh:",
+    "choices": [
+      "Ánh sáng, nước, nhiệt độ",
+      "Chỉ thú ăn thịt",
+      "Chỉ cây",
+      "Chỉ vi khuẩn có lợi"
+    ],
+    "answer": "Ánh sáng, nước, nhiệt độ",
+    "hint": "Không phải sinh vật."
+  },
+  {
+    "id": "q_g8_b41_2",
+    "skill": "g8_b41",
+    "type": "multiple_choice",
+    "question": "Nhân tố hữu sinh:",
+    "choices": [
+      "Cạnh tranh, kẻ thù tự nhiên",
+      "Chỉ đá",
+      "Chỉ nước",
+      "Chỉ gió"
+    ],
+    "answer": "Cạnh tranh, kẻ thù tự nhiên",
+    "hint": "Sinh vật ảnh hưởng sinh vật."
+  },
+  {
+    "id": "q_g8_b41_3",
+    "skill": "g8_b41",
+    "type": "multiple_choice",
+    "question": "Cây thiếu nước:",
+    "choices": [
+      "Héo lá",
+      "Quang hợp vô hạn",
+      "Không hô hấp",
+      "Chết ngay không héo"
+    ],
+    "answer": "Héo lá",
+    "hint": "Nước cần cho sinh trưởng."
+  },
+  {
+    "id": "q_g8_b42_1",
+    "skill": "g8_b42",
+    "type": "multiple_choice",
+    "question": "Quần thể là:",
+    "choices": [
+      "Cá thể cùng loài trong không gian",
+      "Chỉ một cá thể",
+      "Chỉ đất",
+      "Chỉ nước mưa"
+    ],
+    "answer": "Cá thể cùng loài trong không gian",
+    "hint": "Đơn vị sinh thái học."
+  },
+  {
+    "id": "q_g8_b42_2",
+    "skill": "g8_b42",
+    "type": "multiple_choice",
+    "question": "Mật độ quần thể:",
+    "choices": [
+      "Số cá thể / diện tích",
+      "Chỉ chiều cao cây",
+      "Chỉ nhiệt độ",
+      "Chỉ pH"
+    ],
+    "answer": "Số cá thể / diện tích",
+    "hint": "Đo quy mô quần thể."
+  },
+  {
+    "id": "q_g8_b42_3",
+    "skill": "g8_b42",
+    "type": "multiple_choice",
+    "question": "Quần thể giảm có thể do:",
+    "choices": [
+      "Ô nhiễm, săn bắt quá mức",
+      "Chỉ tăng thêm cá thể",
+      "Không có nguyên nhân",
+      "Chỉ mưa"
+    ],
+    "answer": "Ô nhiễm, săn bắt quá mức",
+    "hint": "Yếu tố hạn chế."
+  },
+  {
+    "id": "q_g8_b43_1",
+    "skill": "g8_b43",
+    "type": "multiple_choice",
+    "question": "Quần xã là:",
+    "choices": [
+      "Nhiều quần thể cùng sống",
+      "Một loài duy nhất",
+      "Chỉ đá",
+      "Chỉ khí quyển"
+    ],
+    "answer": "Nhiều quần thể cùng sống",
+    "hint": "Đa loài trong không gian."
+  },
+  {
+    "id": "q_g8_b43_2",
+    "skill": "g8_b43",
+    "type": "multiple_choice",
+    "question": "Quan hệ hộ sinh:",
+    "choices": [
+      "Hai loài cùng có lợi",
+      "Chỉ có hại",
+      "Không tương tác",
+      "Chỉ cạnh tranh"
+    ],
+    "answer": "Hai loài cùng có lợi",
+    "hint": "Ví dụ: ong và hoa."
+  },
+  {
+    "id": "q_g8_b43_3",
+    "skill": "g8_b43",
+    "type": "multiple_choice",
+    "question": "Rừng nhiệt đới:",
+    "choices": [
+      "Quần xã phong phú",
+      "Không có động vật",
+      "Chỉ một cây",
+      "Không có vi sinh"
+    ],
+    "answer": "Quần xã phong phú",
+    "hint": "Đa dạng sinh học cao."
+  },
+  {
+    "id": "q_g8_b44_1",
+    "skill": "g8_b44",
+    "type": "multiple_choice",
+    "question": "Hệ sinh thái gồm:",
+    "choices": [
+      "Sinh vật + môi trường vô sinh",
+      "Chỉ động vật",
+      "Chỉ nước",
+      "Chỉ không khí"
+    ],
+    "answer": "Sinh vật + môi trường vô sinh",
+    "hint": "Thống nhất sinh thái."
+  },
+  {
+    "id": "q_g8_b44_2",
+    "skill": "g8_b44",
+    "type": "multiple_choice",
+    "question": "Chuỗi thức ăn bắt đầu từ:",
+    "choices": [
+      "Sinh vật sản xuất (thực vật)",
+      "Động vật ăn thịt",
+      "Đá",
+      "Xác chết"
+    ],
+    "answer": "Sinh vật sản xuất (thực vật)",
+    "hint": "Nguồn năng lượng ban đầu."
+  },
+  {
+    "id": "q_g8_b44_3",
+    "skill": "g8_b44",
+    "type": "multiple_choice",
+    "question": "Năng lượng qua chuỗi thức ăn:",
+    "choices": [
+      "Giảm dần qua bậc",
+      "Tăng vô hạn",
+      "Không đổi",
+      "Biến mất hoàn toàn"
+    ],
+    "answer": "Giảm dần qua bậc",
+    "hint": "Luật 10% sơ lược."
+  },
+  {
+    "id": "q_g8_b45_1",
+    "skill": "g8_b45",
+    "type": "multiple_choice",
+    "question": "Sinh quyển là:",
+    "choices": [
+      "Lớp sống trên Trái Đất",
+      "Chỉ một con người",
+      "Chỉ một cây",
+      "Chỉ đại dương sâu"
+    ],
+    "answer": "Lớp sống trên Trái Đất",
+    "hint": "Đất liền, nước, không khí."
+  },
+  {
+    "id": "q_g8_b45_2",
+    "skill": "g8_b45",
+    "type": "multiple_choice",
+    "question": "Con người ảnh hưởng sinh quyển:",
+    "choices": [
+      "Mạnh — khai thác, ô nhiễm",
+      "Không ảnh hưởng",
+      "Chỉ tích cực",
+      "Chỉ ở không gian"
+    ],
+    "answer": "Mạnh — khai thác, ô nhiễm",
+    "hint": "Trách nhiệm bảo vệ."
+  },
+  {
+    "id": "q_g8_b45_3",
+    "skill": "g8_b45",
+    "type": "multiple_choice",
+    "question": "Đại dương trong sinh quyển:",
+    "choices": [
+      "Chiếm diện tích lớn",
+      "Không có sinh vật",
+      "Chỉ có cát",
+      "Không thuộc sinh quyển"
+    ],
+    "answer": "Chiếm diện tích lớn",
+    "hint": "Môi trường sống quan trọng."
+  },
+  {
+    "id": "q_g8_b46_1",
+    "skill": "g8_b46",
+    "type": "multiple_choice",
+    "question": "Cân bằng tự nhiên:",
+    "choices": [
+      "Số lượng sinh vật dao động ổn định",
+      "Không bao giờ thay đổi",
+      "Chỉ tăng vô hạn",
+      "Chỉ giảm về 0"
+    ],
+    "answer": "Số lượng sinh vật dao động ổn định",
+    "hint": "Tự điều chỉnh hệ sinh thái."
+  },
+  {
+    "id": "q_g8_b46_2",
+    "skill": "g8_b46",
+    "type": "multiple_choice",
+    "question": "Sói ăn thỏ giúp:",
+    "choices": [
+      "Kiểm soát quần thể thỏ",
+      "Tăng thỏ vô hạn",
+      "Loại bỏ cây",
+      "Không ảnh hưởng"
+    ],
+    "answer": "Kiểm soát quần thể thỏ",
+    "hint": "Cân bằng sinh thái."
+  },
+  {
+    "id": "q_g8_b46_3",
+    "skill": "g8_b46",
+    "type": "multiple_choice",
+    "question": "Phá vỡ cân bằng:",
+    "choices": [
+      "Gây hậu quả xấu",
+      "Luôn tốt",
+      "Không liên quan con người",
+      "Chỉ ở sao Hỏa"
+    ],
+    "answer": "Gây hậu quả xấu",
+    "hint": "Mất ổn định hệ sinh thái."
+  },
+  {
+    "id": "q_g8_b47_1",
+    "skill": "g8_b47",
+    "type": "multiple_choice",
+    "question": "Bảo vệ môi trường:",
+    "choices": [
+      "Giảm rác, tiết kiệm năng lượng",
+      "Xả thải bừa bãi",
+      "Phá rừng",
+      "Đốt rác mọi nơi"
+    ],
+    "answer": "Giảm rác, tiết kiệm năng lượng",
+    "hint": "Hành động bền vững."
+  },
+  {
+    "id": "q_g8_b47_2",
+    "skill": "g8_b47",
+    "type": "multiple_choice",
+    "question": "Ô nhiễm nước:",
+    "choices": [
+      "Giết sinh vật thủy sinh",
+      "Làm sạch tự động ngay",
+      "Không ảnh hưởng",
+      "Chỉ tốt cho cá"
+    ],
+    "answer": "Giết sinh vật thủy sinh",
+    "hint": "Bảo vệ nguồn nước."
+  },
+  {
+    "id": "q_g8_b47_3",
+    "skill": "g8_b47",
+    "type": "multiple_choice",
+    "question": "Tái chế giúp:",
+    "choices": [
+      "Giảm rác thải",
+      "Tăng rác",
+      "Không có ích",
+      "Chỉ tăng ô nhiễm"
+    ],
+    "answer": "Giảm rác thải",
+    "hint": "Tiết kiệm tài nguyên."
+  },
+  {
+    "id": "q_g9_b36_1",
+    "skill": "g9_b36",
+    "type": "multiple_choice",
+    "question": "Gen là:",
+    "choices": [
+      "Đoạn ADN mã hóa thông tin di truyền",
+      "Chỉ protein",
+      "Chỉ môi trường",
+      "Chỉ NST"
+    ],
+    "answer": "Đoạn ADN mã hóa thông tin di truyền",
+    "hint": "Đơn vị di truyền (sơ lược)."
+  },
+  {
+    "id": "q_g9_b36_2",
+    "skill": "g9_b36",
+    "type": "multiple_choice",
+    "question": "Kiểu hình phụ thuộc:",
+    "choices": [
+      "Gen và môi trường",
+      "Chỉ gen",
+      "Chỉ thời tiết một ngày",
+      "Chỉ vật lí"
+    ],
+    "answer": "Gen và môi trường",
+    "hint": "Biểu hiện tính trạng."
+  },
+  {
+    "id": "q_g9_b36_3",
+    "skill": "g9_b36",
+    "type": "multiple_choice",
+    "question": "Di truyền là:",
+    "choices": [
+      "Truyền thông tin từ thế hệ trước",
+      "Chỉ quang hợp",
+      "Chỉ tiêu hóa",
+      "Chỉ hô hấp"
+    ],
+    "answer": "Truyền thông tin từ thế hệ trước",
+    "hint": "Đặc trưng sinh học."
+  },
+  {
+    "id": "q_g9_b37_1",
+    "skill": "g9_b37",
+    "type": "multiple_choice",
+    "question": "Luật phân ly của Mendel:",
+    "choices": [
+      "Allele tách vào giao tử",
+      "Gen luôn dính",
+      "Không có giao tử",
+      "Chỉ có kiểu hình"
+    ],
+    "answer": "Allele tách vào giao tử",
+    "hint": "Aa → A và a trong giao tử."
+  },
+  {
+    "id": "q_g9_b37_2",
+    "skill": "g9_b37",
+    "type": "multiple_choice",
+    "question": "Lai Aa × Aa (một gen, trội hoàn toàn) kiểu hình F1 thường:",
+    "choices": [
+      "3 trội : 1 lặn (sơ lược)",
+      "1:1:1:1 luôn",
+      "Chỉ lặn",
+      "Không có quy luật"
+    ],
+    "answer": "3 trội : 1 lặn (sơ lược)",
+    "hint": "Tỷ lệ kinh điển."
+  },
+  {
+    "id": "q_g9_b37_3",
+    "skill": "g9_b37",
+    "type": "multiple_choice",
+    "question": "Bảng Punnett dùng để:",
+    "choices": [
+      "Dự đoán kiểu gen/con",
+      "Đo nhiệt độ",
+      "Quan sát tế bào",
+      "Cân khối lượng"
+    ],
+    "answer": "Dự đoán kiểu gen/con",
+    "hint": "Công cụ di truyền."
+  },
+  {
+    "id": "q_g9_b38_1",
+    "skill": "g9_b38",
+    "type": "multiple_choice",
+    "question": "ADN có cấu trúc:",
+    "choices": [
+      "Xoắn kép",
+      "Chỉ sợi đơn vĩnh viễn",
+      "Chỉ protein",
+      "Chỉ lipid"
+    ],
+    "answer": "Xoắn kép",
+    "hint": "Hai chuỗi polynucleotide."
+  },
+  {
+    "id": "q_g9_b38_2",
+    "skill": "g9_b38",
+    "type": "multiple_choice",
+    "question": "Cặp bazơ trong ADN:",
+    "choices": [
+      "A–T, G–C",
+      "A–G, T–C",
+      "Chỉ A–A",
+      "Chỉ T–T"
+    ],
+    "answer": "A–T, G–C",
+    "hint": "Quy tắc bổ sung."
+  },
+  {
+    "id": "q_g9_b38_3",
+    "skill": "g9_b38",
+    "type": "multiple_choice",
+    "question": "Gene nằm trên:",
+    "choices": [
+      "ADN (NST)",
+      "Chỉ ribosome",
+      "Chỉ màng",
+      "Chỉ vacuole"
+    ],
+    "answer": "ADN (NST)",
+    "hint": "Thông tin di truyền."
+  },
+  {
+    "id": "q_g9_b39_1",
+    "skill": "g9_b39",
+    "type": "multiple_choice",
+    "question": "Tái bản DNA tạo:",
+    "choices": [
+      "Hai phân tử ADN con",
+      "Chỉ protein",
+      "Chỉ mARN",
+      "Chỉ lipid"
+    ],
+    "answer": "Hai phân tử ADN con",
+    "hint": "Nhân đôi trước phân chia."
+  },
+  {
+    "id": "q_g9_b39_2",
+    "skill": "g9_b39",
+    "type": "multiple_choice",
+    "question": "Phiên mã là:",
+    "choices": [
+      "ADN → mARN",
+      "mARN → protein",
+      "Protein → ADN",
+      "Chỉ hô hấp"
+    ],
+    "answer": "ADN → mARN",
+    "hint": "Bước biểu hiện gen."
+  },
+  {
+    "id": "q_g9_b39_3",
+    "skill": "g9_b39",
+    "type": "multiple_choice",
+    "question": "mARN mang thông tin từ:",
+    "choices": [
+      "Gene đến ribosome",
+      "Chỉ môi trường",
+      "Chỉ tim",
+      "Chỉ xương"
+    ],
+    "answer": "Gene đến ribosome",
+    "hint": "Trung gian dịch mã."
+  },
+  {
+    "id": "q_g9_b40_1",
+    "skill": "g9_b40",
+    "type": "multiple_choice",
+    "question": "Dịch mã là:",
+    "choices": [
+      "mARN → protein",
+      "ADN → ADN",
+      "Protein → mARN",
+      "Chỉ quang hợp"
+    ],
+    "answer": "mARN → protein",
+    "hint": "Tại ribosome."
+  },
+  {
+    "id": "q_g9_b40_2",
+    "skill": "g9_b40",
+    "type": "multiple_choice",
+    "question": "Protein ảnh hưởng:",
+    "choices": [
+      "Kiểu hình (một phần)",
+      "Chỉ nhiệt độ Trái Đất",
+      "Chỉ quỹ đạo sao",
+      "Không liên quan gen"
+    ],
+    "answer": "Kiểu hình (một phần)",
+    "hint": "Gen → protein → tính trạng."
+  },
+  {
+    "id": "q_g9_b40_3",
+    "skill": "g9_b40",
+    "type": "multiple_choice",
+    "question": "Bộ ba trên mARN mã hóa:",
+    "choices": [
+      "Một amino acid",
+      "Cả NST",
+      "Cả cơ thể",
+      "Chỉ nước"
+    ],
+    "answer": "Một amino acid",
+    "hint": "Mã di truyền (sơ lược)."
+  },
+  {
+    "id": "q_g9_b41_1",
+    "skill": "g9_b41",
+    "type": "multiple_choice",
+    "question": "Đột biến gen là:",
+    "choices": [
+      "Thay đổi trình tự nucleotide",
+      "Chỉ đổi màu áo",
+      "Chỉ tăng chiều cao do ăn",
+      "Không ảnh hưởng ADN"
+    ],
+    "answer": "Thay đổi trình tự nucleotide",
+    "hint": "Nguồn biến dị."
+  },
+  {
+    "id": "q_g9_b41_2",
+    "skill": "g9_b41",
+    "type": "multiple_choice",
+    "question": "Đột biến có thể:",
+    "choices": [
+      "Vô hại, có lợi hoặc gây bệnh",
+      "Luôn tốt",
+      "Không tồn tại",
+      "Chỉ ở thực vật"
+    ],
+    "answer": "Vô hại, có lợi hoặc gây bệnh",
+    "hint": "Tùy vị trí và loại."
+  },
+  {
+    "id": "q_g9_b41_3",
+    "skill": "g9_b41",
+    "type": "multiple_choice",
+    "question": "Đột biến cung cấp:",
+    "choices": [
+      "Nguyên liệu cho tiến hóa",
+      "Chỉ giảm đa dạng",
+      "Chỉ làm hỏng gen",
+      "Không liên quan tiến hóa"
+    ],
+    "answer": "Nguyên liệu cho tiến hóa",
+    "hint": "Chọn lọc tự nhiên."
+  },
+  {
+    "id": "q_g9_b42_1",
+    "skill": "g9_b42",
+    "type": "multiple_choice",
+    "question": "Người bình thường có bộ NST:",
+    "choices": [
+      "2n = 46",
+      "2n = 23",
+      "Chỉ 1 NST",
+      "Không có NST"
+    ],
+    "answer": "2n = 46",
+    "hint": "22 cặp thường + 1 cặp giới (sơ lược)."
+  },
+  {
+    "id": "q_g9_b42_2",
+    "skill": "g9_b42",
+    "type": "multiple_choice",
+    "question": "Gen nằm trên:",
+    "choices": [
+      "Nhiễm sắc thể",
+      "Chỉ ribosome",
+      "Chỉ màng",
+      "Chỉ không khí"
+    ],
+    "answer": "Nhiễm sắc thể",
+    "hint": "Vị trí gen trên NST."
+  },
+  {
+    "id": "q_g9_b42_3",
+    "skill": "g9_b42",
+    "type": "multiple_choice",
+    "question": "Bộ NST đặc trưng:",
+    "choices": [
+      "Theo loài",
+      "Giống hệt mọi loài",
+      "Chỉ theo màu da",
+      "Không quan trọng"
+    ],
+    "answer": "Theo loài",
+    "hint": "Đặc trưng loài."
+  },
+  {
+    "id": "q_g9_b43_1",
+    "skill": "g9_b43",
+    "type": "multiple_choice",
+    "question": "Nguyên phân cho:",
+    "choices": [
+      "2n → 2n",
+      "2n → n",
+      "n → 2n",
+      "Chỉ tạo giao tử"
+    ],
+    "answer": "2n → 2n",
+    "hint": "Sinh trưởng, thay tế tế bào."
+  },
+  {
+    "id": "q_g9_b43_2",
+    "skill": "g9_b43",
+    "type": "multiple_choice",
+    "question": "Giảm phân cho:",
+    "choices": [
+      "2n → n (giao tử)",
+      "n → 2n",
+      "2n → 2n",
+      "Không đổi NST"
+    ],
+    "answer": "2n → n (giao tử)",
+    "hint": "Chuẩn bị sinh sản hữu tính."
+  },
+  {
+    "id": "q_g9_b43_3",
+    "skill": "g9_b43",
+    "type": "multiple_choice",
+    "question": "Hợp tử người thường:",
+    "choices": [
+      "2n = 46",
+      "n = 23",
+      "Chỉ 1 NST",
+      "Không có NST"
+    ],
+    "answer": "2n = 46",
+    "hint": "Giao tử n kết hợp."
+  },
+  {
+    "id": "q_g9_b44_1",
+    "skill": "g9_b44",
+    "type": "multiple_choice",
+    "question": "Người XX thường là:",
+    "choices": [
+      "Nữ",
+      "Nam",
+      "Không xác định",
+      "Cả hai"
+    ],
+    "answer": "Nữ",
+    "hint": "NST giới tính (sơ lược)."
+  },
+  {
+    "id": "q_g9_b44_2",
+    "skill": "g9_b44",
+    "type": "multiple_choice",
+    "question": "Người XY thường là:",
+    "choices": [
+      "Nam",
+      "Nữ",
+      "Không liên quan giới",
+      "Chỉ cây"
+    ],
+    "answer": "Nam",
+    "hint": "Quy ước SGK THCS."
+  },
+  {
+    "id": "q_g9_b44_3",
+    "skill": "g9_b44",
+    "type": "multiple_choice",
+    "question": "Giới tính do:",
+    "choices": [
+      "NST giới tính và gen liên quan",
+      "Chỉ thời tiết",
+      "Chỉ ăn uống",
+      "Chỉ vận động"
+    ],
+    "answer": "NST giới tính và gen liên quan",
+    "hint": "Cơ chế sinh học."
+  },
+  {
+    "id": "q_g9_b45_1",
+    "skill": "g9_b45",
+    "type": "multiple_choice",
+    "question": "Di truyền liên kết khi gen:",
+    "choices": [
+      "Trên cùng NST",
+      "Ở hai NST khác xa",
+      "Không trên NST",
+      "Chỉ ở ribosome"
+    ],
+    "answer": "Trên cùng NST",
+    "hint": "Di truyền cùng nhau."
+  },
+  {
+    "id": "q_g9_b45_2",
+    "skill": "g9_b45",
+    "type": "multiple_choice",
+    "question": "Khác luật phân ly độc lập khi:",
+    "choices": [
+      "Gen liên kết trên NST",
+      "Gen ở NST khác nhau",
+      "Không có gen",
+      "Chỉ có một allele"
+    ],
+    "answer": "Gen liên kết trên NST",
+    "hint": "Mendel giả định độc lập."
+  },
+  {
+    "id": "q_g9_b45_3",
+    "skill": "g9_b45",
+    "type": "multiple_choice",
+    "question": "Hoán vị gen có thể:",
+    "choices": [
+      "Tách li kết gen (sơ lược)",
+      "Không ảnh hưởng",
+      "Chỉ tạo protein",
+      "Chỉ quang hợp"
+    ],
+    "answer": "Tách li kết gen (sơ lược)",
+    "hint": "Tăng đa dạng giao tử."
+  },
+  {
+    "id": "q_g9_b46_1",
+    "skill": "g9_b46",
+    "type": "multiple_choice",
+    "question": "Đột biến NST có thể:",
+    "choices": [
+      "Thừa/thiếu đoạn hoặc cả NST",
+      "Chỉ đổi màu tóc do nhuộm",
+      "Không ảnh hưởng",
+      "Chỉ ở virus"
+    ],
+    "answer": "Thừa/thiếu đoạn hoặc cả NST",
+    "hint": "Hậu quả lớn."
+  },
+  {
+    "id": "q_g9_b46_2",
+    "skill": "g9_b46",
+    "type": "multiple_choice",
+    "question": "Hội chứng Down (sơ lược) liên quan:",
+    "choices": [
+      "Thừa NST 21",
+      "Thiếu NST X duy nhất",
+      "Chỉ gen lặn",
+      "Chỉ môi trường"
+    ],
+    "answer": "Thừa NST 21",
+    "hint": "Ví dụ đột biến số NST."
+  },
+  {
+    "id": "q_g9_b46_3",
+    "skill": "g9_b46",
+    "type": "multiple_choice",
+    "question": "Đột biến NST khác đột biến gen ở:",
+    "choices": [
+      "Quy mô cấu trúc NST",
+      "Giống hệt nhau",
+      "Không liên quan di truyền",
+      "Chỉ là protein"
+    ],
+    "answer": "Quy mô cấu trúc NST",
+    "hint": "Mức độ khác nhau."
+  },
+  {
+    "id": "q_g9_b47_1",
+    "skill": "g9_b47",
+    "type": "multiple_choice",
+    "question": "Bệnh di truyền:",
+    "choices": [
+      "Do gen/NST bất thường",
+      "Chỉ do ăn uống",
+      "Chỉ do gió",
+      "Không liên quan gen"
+    ],
+    "answer": "Do gen/NST bất thường",
+    "hint": "Cần tư vấn y khoa."
+  },
+  {
+    "id": "q_g9_b47_2",
+    "skill": "g9_b47",
+    "type": "multiple_choice",
+    "question": "Tư vấn di truyền giúp:",
+    "choices": [
+      "Phòng và hiểu rủi ro",
+      "Thay thế bác sĩ",
+      "Chỉ để phân biệt đối xử",
+      "Không có ích"
+    ],
+    "answer": "Phòng và hiểu rủi ro",
+    "hint": "Đạo đức y học."
+  },
+  {
+    "id": "q_g9_b47_3",
+    "skill": "g9_b47",
+    "type": "multiple_choice",
+    "question": "Với người khuyết tật di truyền:",
+    "choices": [
+      "Tôn trọng, không kỳ thị",
+      "Loại trừ",
+      "Chê bai",
+      "Không quan tâm"
+    ],
+    "answer": "Tôn trọng, không kỳ thị",
+    "hint": "Giáo dục công dân."
+  },
+  {
+    "id": "q_g9_b48_1",
+    "skill": "g9_b48",
+    "type": "multiple_choice",
+    "question": "ADN tái tổ hợp ứng dụng:",
+    "choices": [
+      "Insulin, chọn giống",
+      "Chỉ đốt than",
+      "Chỉ quang hợp",
+      "Chỉ tiêu hóa"
+    ],
+    "answer": "Insulin, chọn giống",
+    "hint": "Công nghệ gen."
+  },
+  {
+    "id": "q_g9_b48_2",
+    "skill": "g9_b48",
+    "type": "multiple_choice",
+    "question": "Vắc-xin công nghệ gen:",
+    "choices": [
+      "Kích hoạt miễn dịch an toàn hơn một số cách cũ",
+      "Luôn gây bệnh",
+      "Không liên quan di truyền",
+      "Chỉ cho cây"
+    ],
+    "answer": "Kích hoạt miễn dịch an toàn hơn một số cách cũ",
+    "hint": "Y học hiện đại."
+  },
+  {
+    "id": "q_g9_b48_3",
+    "skill": "g9_b48",
+    "type": "multiple_choice",
+    "question": "Công nghệ gen cần:",
+    "choices": [
+      "Cân nhắc đạo đức",
+      "Không cần quy định",
+      "Chỉ lợi ích",
+      "Bỏ qua rủi ro"
+    ],
+    "answer": "Cân nhắc đạo đức",
+    "hint": "Trách nhiệm xã hội."
+  },
+  {
+    "id": "q_g9_b49_1",
+    "skill": "g9_b49",
+    "type": "multiple_choice",
+    "question": "Tiến hóa là:",
+    "choices": [
+      "Thay đổi quần thể qua thời gian",
+      "Thay đổi cá nhân trong một đời",
+      "Chỉ quang hợp",
+      "Chỉ tiêu hóa"
+    ],
+    "answer": "Thay đổi quần thể qua thời gian",
+    "hint": "Khái niệm cơ bản."
+  },
+  {
+    "id": "q_g9_b49_2",
+    "skill": "g9_b49",
+    "type": "multiple_choice",
+    "question": "Chọn lọc tự nhiên:",
+    "choices": [
+      "Cá thể thích nghi sống sót và sinh sản hơn",
+      "Luôn ngẫu nhiên",
+      "Chỉ do con người",
+      "Không ảnh hưởng allele"
+    ],
+    "answer": "Cá thể thích nghi sống sót và sinh sản hơn",
+    "hint": "Darwin (sơ lược)."
+  },
+  {
+    "id": "q_g9_b49_3",
+    "skill": "g9_b49",
+    "type": "multiple_choice",
+    "question": "Chọn lọc nhân tạo:",
+    "choices": [
+      "Con người chọn giống",
+      "Chỉ ở rừng",
+      "Không liên quan gen",
+      "Chỉ vi khuẩn tự chọn"
+    ],
+    "answer": "Con người chọn giống",
+    "hint": "Nông nghiệp, chăn nuôi."
+  },
+  {
+    "id": "q_g9_b50_1",
+    "skill": "g9_b50",
+    "type": "multiple_choice",
+    "question": "Cơ chế tiến hóa gồm:",
+    "choices": [
+      "Đột biến, chọn lọc, giao phối",
+      "Chỉ hô hấp",
+      "Chỉ quang hợp",
+      "Chỉ tiêu hóa"
+    ],
+    "answer": "Đột biến, chọn lọc, giao phối",
+    "hint": "Thay đổi tần số allele."
+  },
+  {
+    "id": "q_g9_b50_2",
+    "skill": "g9_b50",
+    "type": "multiple_choice",
+    "question": "Kháng thuốc kháng sinh:",
+    "choices": [
+      "Chọn lọc tự nhiên vi khuẩn",
+      "Không liên quan tiến hóa",
+      "Chỉ do may mắn",
+      "Chỉ ở thực vật"
+    ],
+    "answer": "Chọn lọc tự nhiên vi khuẩn",
+    "hint": "Ví dụ tiến hóa vi mô."
+  },
+  {
+    "id": "q_g9_b50_3",
+    "skill": "g9_b50",
+    "type": "multiple_choice",
+    "question": "Cách ly sinh sản:",
+    "choices": [
+      "Góp phần hình thành loài mới (sơ lược)",
+      "Không ảnh hưởng",
+      "Chỉ ở đá",
+      "Chỉ một ngày"
+    ],
+    "answer": "Góp phần hình thành loài mới (sơ lược)",
+    "hint": "Tiến hóa loài."
+  },
+  {
+    "id": "q_g9_b51_1",
+    "skill": "g9_b51",
+    "type": "multiple_choice",
+    "question": "Sự sống trên Trái Đất:",
+    "choices": [
+      "Phát sinh từ hàng tỷ năm trước",
+      "Chỉ vài năm",
+      "Chỉ do con người tạo",
+      "Không có bằng chứng"
+    ],
+    "answer": "Phát sinh từ hàng tỷ năm trước",
+    "hint": "Lịch sử địa chất – sinh học."
+  },
+  {
+    "id": "q_g9_b51_2",
+    "skill": "g9_b51",
+    "type": "multiple_choice",
+    "question": "Hóa thạch giúp:",
+    "choices": [
+      "Chứng minh tiến hóa",
+      "Chỉ trang trí",
+      "Không có giá trị",
+      "Chỉ đo nhiệt độ"
+    ],
+    "answer": "Chứng minh tiến hóa",
+    "hint": "Bằng chứng khoa học."
+  },
+  {
+    "id": "q_g9_b51_3",
+    "skill": "g9_b51",
+    "type": "multiple_choice",
+    "question": "Xu hướng phát triển sự sống:",
+    "choices": [
+      "Từ đơn giản đến phức tạp (sơ lược)",
+      "Từ phức tạp về đơn giản tuyệt đối",
+      "Không thay đổi",
+      "Chỉ virus"
+    ],
+    "answer": "Từ đơn giản đến phức tạp (sơ lược)",
+    "hint": "Quan sát đa dạng sinh học."
+  }
+]

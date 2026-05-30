@@ -1,0 +1,10 @@
+{
+  "name": "BioFlow VN",
+  "short_name": "BioFlow",
+  "description": "Học Sinh học THCS — micro-learning, mô hình 3D và luyện tập thông minh.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7fbff",
+  "theme_color": "#20a36b",
+  "lang": "vi"
+}

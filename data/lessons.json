@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "g6_b01",
+    "title": "Bài 1. Giới thiệu về Khoa học tự nhiên",
+    "skill": "g6_b01",
+    "chapter": "Mở đầu về Khoa học tự nhiên",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết ba lĩnh vực KHTN và vai trò Sinh học trong đời sống."
+      },
+      {
+        "type": "visualization",
+        "title": "Sinh học trong KHTN",
+        "content": "Sinh học nghiên cứu sự sống: từ tế bào, sinh vật đến hệ sinh thái.",
+        "visualization": "khtn"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Men vi sinh lên men sữa chua là ví dụ Sinh học ứng dụng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "KHTN gồm Vật lí, Hóa học, Sinh học."
+      }
+    ]
+  },
+  {
+    "id": "g6_b02",
+    "title": "Bài 2. An toàn trong phòng thực hành",
+    "skill": "g6_b02",
+    "chapter": "Mở đầu về Khoa học tự nhiên",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tuân thủ quy tắc an toàn khi quan sát mẫu sinh vật và làm thí nghiệm Sinh – Hóa – Vật lí."
+      },
+      {
+        "type": "visualization",
+        "title": "An toàn lab Sinh",
+        "content": "Không nếm, không ngửi mẫu sinh vật lạ; đeo găng tay và kính khi cần.",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Mẫu máu, dịch cơ thể chỉ xử lý theo hướng dẫn giáo viên."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Rửa tay sau thí nghiệm; báo ngay khi bị đứt tay hoặc đổ hóa chất."
+      }
+    ]
+  },
+  {
+    "id": "g6_b03",
+    "title": "Bài 3. Sử dụng kính lúp",
+    "skill": "g6_b03",
+    "chapter": "Mở đầu về Khoa học tự nhiên",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Dùng kính lúp quan sát cấu trúc mẫu sinh vật nhỏ: lá, hạt, côn trùng."
+      },
+      {
+        "type": "visualization",
+        "title": "Kính lúp",
+        "content": "Phóng đại vài đến vài chục lần; quan sát gân lá, cánh côn trùng, bề mặt hạt.",
+        "visualization": "magnifier"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "So sánh mặt trên và mặt dưới lá cùng loại cây."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Giữ khoảng cách mắt – kính – vật để hình rõ."
+      }
+    ]
+  },
+  {
+    "id": "g6_b04",
+    "title": "Bài 4. Sử dụng kính hiển vi quang học",
+    "skill": "g6_b04",
+    "chapter": "Mở đầu về Khoa học tự nhiên",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Làm mẫu lát mỏng, quan sát tế bào và cấu trúc vi mô bằng kính hiển vi."
+      },
+      {
+        "type": "visualization",
+        "title": "Kính hiển vi",
+        "content": "Phóng đại hàng trăm đến hàng nghìn lần; làm mẫu mỏng trên lam kính.",
+        "visualization": "microscope"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Quan sát tế bào hành tím: nhân, tế bào chất, vách tế bào."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Vẽ hình đúng tỷ lệ; ghi độ phóng đại trên sơ đồ."
+      }
+    ]
+  },
+  {
+    "id": "g6_b15",
+    "title": "Bài 15. Một số lương thực, thực phẩm",
+    "skill": "g6_b15",
+    "chapter": "Lương thực và thực phẩm",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thành phần dinh dưỡng; vai trò carbohydrate, protein, lipid và chất xơ đối với cơ thể."
+      },
+      {
+        "type": "visualization",
+        "title": "Dinh dưỡng",
+        "content": "Tinh bột, đường cung cấp năng lượng; protein xây dựng cơ thể; lipid dự trữ.",
+        "visualization": "digestion"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Gạo nhiều tinh bột; đậu phụ nhiều protein thực vật."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ăn đủ nhóm thực phẩm, rửa sạch trước khi chế biến."
+      }
+    ]
+  },
+  {
+    "id": "g6_b18",
+    "title": "Bài 18. Tế bào – đơn vị cơ bản của sự sống",
+    "skill": "g6_b18",
+    "chapter": "Tế bào",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhận biết tế bào là đơn vị cơ bản; phân biệt tế bào đơn bào và cơ thể đa bào."
+      },
+      {
+        "type": "visualization",
+        "title": "Tế bào",
+        "content": "Mọi sinh vật đều có tế bào; tế bào là đơn vị cơ bản của sự sống.",
+        "visualization": "cell"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Amip là sinh vật đơn bào; cây muống là sinh vật đa bào."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tế bào có màng, tế bào chất và thường có nhân."
+      }
+    ]
+  },
+  {
+    "id": "g6_b19",
+    "title": "Bài 19. Cấu tạo và chức năng các thành phần của tế bào",
+    "skill": "g6_b19",
+    "chapter": "Tế bào",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Màng tế bào, tế bào chất, nhân; vai trò các bào quan chính trong tế bào."
+      },
+      {
+        "type": "visualization",
+        "title": "Thành phần tế bào",
+        "content": "Nhân điều khiển hoạt động; tế bào chất là môi trường phản ứng sống.",
+        "visualization": "organelle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Tế bào thực vật có vách cellulose và thường có vacuole lớn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Màng tế bào điều hòa trao đổi chất với môi trường."
+      }
+    ]
+  },
+  {
+    "id": "g6_b20",
+    "title": "Bài 20. Sự lớn lên và sinh sản của tế bào",
+    "skill": "g6_b20",
+    "chapter": "Tế bào",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tế bào lớn lên nhờ nuôi dưỡng; sinh sản bằng phân chia tế bào."
+      },
+      {
+        "type": "visualization",
+        "title": "Phân chia tế bào",
+        "content": "Tế bào lớn lên nhờ hấp thu chất dinh dưỡng; sinh sản bằng phân chia.",
+        "visualization": "reproduction"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Một tế bào phân chia thành hai tế bào con giống hệt (sơ lược)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Phân chia tế bào giúp cơ thể lớn lên và thay thế tế bào cũ."
+      }
+    ]
+  },
+  {
+    "id": "g6_b21",
+    "title": "Bài 21. Thực hành: Quan sát và phân biệt một số loại tế bào",
+    "skill": "g6_b21",
+    "chapter": "Tế bào",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quan sát tế bào thực vật, động vật dưới kính hiển vi; vẽ và so sánh."
+      },
+      {
+        "type": "visualization",
+        "title": "Thực hành tế bào",
+        "content": "Làm mẫu lát mỏng, nhuộm iodine để thấy nhân rõ hơn.",
+        "visualization": "microscope"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Tế bào thực vật có hình chữ nhật; tế bào động vật tròn hơn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ghi chú độ phóng đại và tên bộ phận quan sát được."
+      }
+    ]
+  },
+  {
+    "id": "g6_b22",
+    "title": "Bài 22. Cơ thể sinh vật",
+    "skill": "g6_b22",
+    "chapter": "Từ tế bào đến cơ thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cơ thể sinh vật gồm nhiều tế bào; phân biệt cơ thể đơn bào và đa bào."
+      },
+      {
+        "type": "visualization",
+        "title": "Cơ thể sinh vật",
+        "content": "Cơ thể gồm một hoặc nhiều tế bào làm việc phối hợp.",
+        "visualization": "cell"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Giun đất đa bào; vi khuẩn đơn bào."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Cơ thể đa bào có nhiều loại tế bào khác nhau."
+      }
+    ]
+  },
+  {
+    "id": "g6_b23",
+    "title": "Bài 23. Tổ chức cơ thể đa bào",
+    "skill": "g6_b23",
+    "chapter": "Từ tế bào đến cơ thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tế bào → mô → cơ quan → cơ thể; các cấp tổ chức trong sinh vật đa bào."
+      },
+      {
+        "type": "visualization",
+        "title": "Cấp tổ chức",
+        "content": "Tế bào → mô → cơ quan → cơ thể (sinh vật đa bào).",
+        "visualization": "organelle"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Mô biểu bì bảo vệ; mô dẫn vận chuyển chất trong cây."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Các cơ quan phối hợp tạo thành hệ cơ quan."
+      }
+    ]
+  },
+  {
+    "id": "g6_b24",
+    "title": "Bài 24. Thực hành: Quan sát và mô tả cơ thể đơn bào, đa bào",
+    "skill": "g6_b24",
+    "chapter": "Từ tế bào đến cơ thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quan sát amip, euglena (đơn bào) và mô thực vật, động vật (đa bào)."
+      },
+      {
+        "type": "visualization",
+        "title": "Thực hành đơn/đa bào",
+        "content": "Quan sát amip thay đổi hình dạng khi di chuyển.",
+        "visualization": "microscope"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Mô thực vật gồm nhiều tế bào giống nhau sắp xếp."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh kích thước và hình dạng tế bào các mẫu."
+      }
+    ]
+  },
+  {
+    "id": "g6_b25",
+    "title": "Bài 25. Hệ thống phân loại sinh vật",
+    "skill": "g6_b25",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân loại theo giới, ngành, lớp, bộ, họ, chi, loài; tên khoa học hai phần."
+      },
+      {
+        "type": "visualization",
+        "title": "Phân loại sinh vật",
+        "content": "Phân loại theo quan hệ họ hàng; tên Latin hai phần: chi + loài.",
+        "visualization": "diversity"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Homo sapiens là tên khoa học của loài người."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Hệ thống phân loại giúp tra cứu và nghiên cứu."
+      }
+    ]
+  },
+  {
+    "id": "g6_b26",
+    "title": "Bài 26. Khóa lưỡng phân",
+    "skill": "g6_b26",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Dùng khóa lưỡng phân để nhận biết sinh vật qua cặp đặc điểm đối lập."
+      },
+      {
+        "type": "visualization",
+        "title": "Khóa lưỡng phân",
+        "content": "Mỗi cặp câu hỏi chia nhóm sinh vật thành hai nhánh.",
+        "visualization": "diversity"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Có cánh / không cánh → phân biệt côn trùng bay và không bay."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chọn đặc điểm dễ quan sát, ổn định để lập khóa."
+      }
+    ]
+  },
+  {
+    "id": "g6_b27",
+    "title": "Bài 27. Vi khuẩn",
+    "skill": "g6_b27",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Vi khuẩn đơn bào, không có nhân thật; vai trò có lợi và có hại."
+      },
+      {
+        "type": "visualization",
+        "title": "Vi khuẩn",
+        "content": "Vi khuẩn rất nhỏ, đơn bào, không có nhân đặc biệt (sơ lược THCS).",
+        "visualization": "microorganism"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Vi khuẩn lactic acid lên men sữa; vi khuẩn có hại gây bệnh."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Vệ sinh tay giúp hạn chế vi khuẩn gây bệnh."
+      }
+    ]
+  },
+  {
+    "id": "g6_b28",
+    "title": "Bài 28. Thực hành: Làm sữa chua và quan sát vi khuẩn",
+    "skill": "g6_b28",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Lên men sữa nhờ vi khuẩn; quan sát mẫu an toàn trong phòng lab."
+      },
+      {
+        "type": "visualization",
+        "title": "Lên men sữa chua",
+        "content": "Vi khuẩn chuyển lactose thành axit lactic, đông sữa.",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Ủ sữa ấm với men sữa chua trong điều kiện vệ sinh."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thí nghiệm cần đun sạch dụng cụ và đậy kín hợp lý."
+      }
+    ]
+  },
+  {
+    "id": "g6_b29",
+    "title": "Bài 29. Virus",
+    "skill": "g6_b29",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Virus rất nhỏ, không có cấu trúc tế bào; cần tế bào chủ để sinh sản."
+      },
+      {
+        "type": "visualization",
+        "title": "Virus",
+        "content": "Virus nhỏ hơn vi khuẩn; không có cấu trúc tế bào hoàn chỉnh.",
+        "visualization": "microorganism"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Virus cúm, HIV cần tế bào chủ để nhân lên."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Vaccine giúp cơ thể tạo miễn dịch phòng virus."
+      }
+    ]
+  },
+  {
+    "id": "g6_b30",
+    "title": "Bài 30. Nguyên sinh vật",
+    "skill": "g6_b30",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Amip, trùng roi, trùng giày; đơn bào, di chuyển và dinh dưỡng đa dạng."
+      },
+      {
+        "type": "visualization",
+        "title": "Nguyên sinh vật",
+        "content": "Sinh vật đơn bào sống trong nước; amip, trùng giày, euglena.",
+        "visualization": "microorganism"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Amip bắt mồi bằng chân giả; euglena có dải roi."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nguyên sinh vật là nhóm đa dạng, không phải một loài."
+      }
+    ]
+  },
+  {
+    "id": "g6_b31",
+    "title": "Bài 31. Thực hành: Quan sát nguyên sinh vật",
+    "skill": "g6_b31",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Lấy mẫu nước ao, quan sát nguyên sinh vật dưới kính hiển vi."
+      },
+      {
+        "type": "visualization",
+        "title": "TH nguyên sinh vật",
+        "content": "Giọt nước ao chứa nhiều nguyên sinh vật.",
+        "visualization": "microscope"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Quan sát chuyển động và hình dạng dưới kính hiển vi."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không uống nước mẫu thí nghiệm."
+      }
+    ]
+  },
+  {
+    "id": "g6_b32",
+    "title": "Bài 32. Nấm",
+    "skill": "g6_b32",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nấm đa bào, hút chất hữu cơ; nấm men, nấm mốc và nấm lớn."
+      },
+      {
+        "type": "visualization",
+        "title": "Nấm",
+        "content": "Nấm hút chất hữu cơ; có thân sợi (mycelium) và bào tử.",
+        "visualization": "microorganism"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Nấm men lên men bánh mì; nấm mốc mọc trên thức ăn để lâu."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Một số nấm ăn được, nhiều nấm hoang độc."
+      }
+    ]
+  },
+  {
+    "id": "g6_b33",
+    "title": "Bài 33. Thực hành: Quan sát các loại nấm",
+    "skill": "g6_b33",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quan sát nấm men, nấm mốc trên mẫu an toàn; vẽ hình."
+      },
+      {
+        "type": "visualization",
+        "title": "TH quan sát nấm",
+        "content": "Nuôi nấm mốc trên bánh mì ẩm trong túi sạch (theo hướng dẫn GV).",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Vẽ sợi nấm và bào tử nếu quan sát được."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không hít trực tiếp bào tử nấm mốc."
+      }
+    ]
+  },
+  {
+    "id": "g6_b34",
+    "title": "Bài 34. Thực vật",
+    "skill": "g6_b34",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đặc điểm chung thực vật: rễ, thân, lá, hoa; quang hợp và vách cellulose."
+      },
+      {
+        "type": "visualization",
+        "title": "Thực vật",
+        "content": "Quang hợp; có rễ, thân, lá; thực vật hạt trần và hạt kín.",
+        "visualization": "plant"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Thông là thực vật hạt trần; cây ăn quả thường hạt kín."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thực vật là nhà sản xuất trong chuỗi thức ăn."
+      }
+    ]
+  },
+  {
+    "id": "g6_b35",
+    "title": "Bài 35. Thực hành: Quan sát và phân biệt một số nhóm thực vật",
+    "skill": "g6_b35",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Phân biệt thực vật hạt trần và hạt kín qua mẫu thực tế."
+      },
+      {
+        "type": "visualization",
+        "title": "TH thực vật",
+        "content": "Quan sát rễ, thân, lá, hoa (nếu có) của mẫu cây.",
+        "visualization": "plant"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "So sánh thực vật một nhị và hai nhị (sơ lược)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ghi tên địa phương và đặc điểm nhận biết."
+      }
+    ]
+  },
+  {
+    "id": "g6_b36",
+    "title": "Bài 36. Động vật",
+    "skill": "g6_b36",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đặc điểm chung động vật; phân biệt không xương sống và có xương sống."
+      },
+      {
+        "type": "visualization",
+        "title": "Động vật",
+        "content": "Di chuyển tích cực; hô hấp khí; đa số ăn sẵn.",
+        "visualization": "animal"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Côn trùng có lớp vỏ cứng; cá thở bằng mang."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Phân loại theo xương sống và môi trường sống."
+      }
+    ]
+  },
+  {
+    "id": "g6_b37",
+    "title": "Bài 37. Thực hành: Quan sát và nhận biết một số nhóm động vật ngoài thiên nhiên",
+    "skill": "g6_b37",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quan sát côn trùng, cá, lưỡng cư, chim trong môi trường tự nhiên hoặc mẫu."
+      },
+      {
+        "type": "visualization",
+        "title": "TH động vật",
+        "content": "Quan sát côn trùng, chim, cá ngoài thiên nhiên an toàn.",
+        "visualization": "animal"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Ghi lại nơi sống, cách di chuyển, thức ăn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không bắt sinh vật hoang dã trái phép."
+      }
+    ]
+  },
+  {
+    "id": "g6_b38",
+    "title": "Bài 38. Đa dạng sinh học",
+    "skill": "g6_b38",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đa dạng gen, loài và hệ sinh thái; giá trị và nguy cơ suy giảm."
+      },
+      {
+        "type": "visualization",
+        "title": "Đa dạng sinh học",
+        "content": "Phong phú loài và môi trường giúp hệ sinh thái ổn định.",
+        "visualization": "diversity"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Rừng nhiệt đới Việt Nam có nhiều loài đặc hữu."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Mất rừng làm giảm đa dạng sinh học."
+      }
+    ]
+  },
+  {
+    "id": "g6_b39",
+    "title": "Bài 39. Tìm hiểu sinh vật ngoài thiên nhiên",
+    "skill": "g6_b39",
+    "chapter": "Đa dạng thế giới sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Khảo sát sinh vật địa phương; bảo vệ môi trường sống và thiên nhiên."
+      },
+      {
+        "type": "visualization",
+        "title": "Sinh vật ngoài thiên nhiên",
+        "content": "Khảo sát cây, động vật, vi sinh tại công viên, ao hồ.",
+        "visualization": "environment"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Ghi sổ quan sát: thời tiết, loài gặp, hành vi."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Bảo vệ thiên nhiên: không xả rác, không phá tổ."
+      }
+    ]
+  },
+  {
+    "id": "g7_b01",
+    "title": "Bài 1. Phương pháp và kĩ năng học tập môn KHTN",
+    "skill": "g7_b01",
+    "chapter": "Mở đầu KHTN 7",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quan sát, đặt giả thuyết, thí nghiệm, ghi chép và rút kết luận khi học Sinh học."
+      },
+      {
+        "type": "visualization",
+        "title": "Phương pháp KHTN",
+        "content": "Quan sát → giả thuyết → thí nghiệm → kết luận → kiểm tra lại.",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "So sánh nảy mầm hạt đậu ở ánh sáng và trong tối."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ghi sổ tay lab: số liệu, hình vẽ, nguồn mẫu."
+      }
+    ]
+  },
+  {
+    "id": "g7_b21",
+    "title": "Bài 21. Khái quát về trao đổi chất và chuyển hóa năng lượng",
+    "skill": "g7_b21",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Trao đổi chất và chuyển hóa năng lượng là đặc trưng của sinh vật sống."
+      },
+      {
+        "type": "visualization",
+        "title": "Trao đổi chất",
+        "content": "Sinh vật sống trao đổi chất và năng lượng với môi trường liên tục.",
+        "visualization": "respiration"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cây hấp thu CO₂, thải O₂ ban ngày; hô hấp mọi lúc."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không trao đổi chất → không duy trì sự sống."
+      }
+    ]
+  },
+  {
+    "id": "g7_b22",
+    "title": "Bài 22. Quang hợp ở thực vật",
+    "skill": "g7_b22",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quang hợp tạo chất hữu cơ và O₂; diễn ra ở lục lạp, cần ánh sáng."
+      },
+      {
+        "type": "visualization",
+        "title": "Quang hợp",
+        "content": "6CO₂ + 6H₂O + ánh sáng → C₆H₁₂O₆ + 6O₂ (tổng quát).",
+        "visualization": "photosynthesis"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Lá xanh nhờ clorophyll hấp thụ ánh sáng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Quang hợp cung cấp O₂ và chất hữu cơ cho hệ sinh thái."
+      }
+    ]
+  },
+  {
+    "id": "g7_b23",
+    "title": "Bài 23. Một số yếu tố ảnh hưởng đến quang hợp",
+    "skill": "g7_b23",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Ánh sáng, CO₂, nhiệt độ và nước ảnh hưởng hiệu suất quang hợp."
+      },
+      {
+        "type": "visualization",
+        "title": "Yếu tố quang hợp",
+        "content": "Thiếu ánh sáng hoặc CO₂ làm giảm quang hợp.",
+        "visualization": "photosynthesis"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cây trong tối vàng lá, còi cọc."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhiệt độ quá cao/thấp ảnh hưởng enzyme."
+      }
+    ]
+  },
+  {
+    "id": "g7_b24",
+    "title": "Bài 24. Thực hành: Chứng minh quang hợp ở cây xanh",
+    "skill": "g7_b24",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thí nghiệm chứng minh cây xanh cần ánh sáng để quang hợp."
+      },
+      {
+        "type": "visualization",
+        "title": "TH quang hợp",
+        "content": "Che một phần lá khỏi ánh sáng, so sánh màu sau vài ngày.",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Lá không được chiếu sáng kém clorophyll hơn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kiểm soát biến số: cùng loại cây, cùng điều kiện nước."
+      }
+    ]
+  },
+  {
+    "id": "g7_b25",
+    "title": "Bài 25. Hô hấp tế bào",
+    "skill": "g7_b25",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hô hấp tế bào giải phóng năng lượng từ chất hữu cơ; hiếu khí và kỵ khí."
+      },
+      {
+        "type": "visualization",
+        "title": "Hô hấp tế bào",
+        "content": "Phân hủy chất hữu cơ giải phóng ATP; hiếu khí cần O₂.",
+        "visualization": "respiration"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Người thở gấp khi chạy vì cơ cần nhiều ATP."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Hô hấp xảy ra liên tục ở mọi tế bào sống."
+      }
+    ]
+  },
+  {
+    "id": "g7_b26",
+    "title": "Bài 26. Một số yếu tố ảnh hưởng hô hấp tế bào",
+    "skill": "g7_b26",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhiệt độ, O₂ và enzyme ảnh hưởng tốc độ hô hấp tế bào."
+      },
+      {
+        "type": "visualization",
+        "title": "Yếu tố hô hấp",
+        "content": "Nhiệt độ tăng thường làm tăng hô hấp (trong giới hạn).",
+        "visualization": "respiration"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Thiếu O₂ làm giảm hô hấp hiếu khí."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Enzyme hô hấp nhạy cảm với nhiệt độ."
+      }
+    ]
+  },
+  {
+    "id": "g7_b27",
+    "title": "Bài 27. Thực hành: Hô hấp ở thực vật",
+    "skill": "g7_b27",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Chứng minh thực vật hô hấp mọi lúc, kể cả ban đêm."
+      },
+      {
+        "type": "visualization",
+        "title": "TH hô hấp thực vật",
+        "content": "Bọc kín nhánh cây, quan sát đọng ẩm — chứng minh hô hấp.",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Thực vật hô hấp cả ngày lẫn đêm."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Quang hợp chủ yếu ban ngày khi có ánh sáng."
+      }
+    ]
+  },
+  {
+    "id": "g7_b28",
+    "title": "Bài 28. Trao đổi khí ở sinh vật",
+    "skill": "g7_b28",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thực vật và động vật trao đổi O₂ và CO₂ với môi trường."
+      },
+      {
+        "type": "visualization",
+        "title": "Trao đổi khí",
+        "content": "Ban ngày cây: quang hợp mạnh, thải O₂ nhiều; vẫn hô hấp.",
+        "visualization": "respiration"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Động vật thở O₂, thải CO₂."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Rừng đóng vai trò điều hòa khí quyển."
+      }
+    ]
+  },
+  {
+    "id": "g7_b29",
+    "title": "Bài 29. Vai trò của nước và chất dinh dưỡng đối với sinh vật",
+    "skill": "g7_b29",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nước là dung môi; khoáng và hữu cơ cần cho sinh trưởng."
+      },
+      {
+        "type": "visualization",
+        "title": "Nước và dinh dưỡng",
+        "content": "Nước tham gia quang hợp, hô hấp, vận chuyển chất.",
+        "visualization": "digestion"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "N, P, K là khoáng cần cho cây."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thiếu dinh dưỡng → cây còi, vàng lá."
+      }
+    ]
+  },
+  {
+    "id": "g7_b30",
+    "title": "Bài 30. Trao đổi nước và chất dinh dưỡng ở thực vật",
+    "skill": "g7_b30",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Rễ hút nước muối; thân vận chuyển; lá thoát hơi nước."
+      },
+      {
+        "type": "visualization",
+        "title": "Trao đổi ở thực vật",
+        "content": "Rễ hút nước và ion; mạch dẫn vận chuyển lên lá.",
+        "visualization": "plant"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Lá thoát hơi nước qua khí khổ bốn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Cân bằng nước giúp cây đứng vững và hấp thu."
+      }
+    ]
+  },
+  {
+    "id": "g7_b31",
+    "title": "Bài 31. Trao đổi nước và chất dinh dưỡng ở động vật",
+    "skill": "g7_b31",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tiêu hóa, hấp thu và vận chuyển chất dinh dưỡng ở động vật."
+      },
+      {
+        "type": "visualization",
+        "title": "Trao đổi ở động vật",
+        "content": "Tiêu hóa biến thức ăn thành chất hấp thu được.",
+        "visualization": "digestion"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Ruột non hấp thu glucose, amino acid."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Máu vận chuyển chất dinh dưỡng đến tế bào."
+      }
+    ]
+  },
+  {
+    "id": "g7_b32",
+    "title": "Bài 32. Thực hành: Thân vận chuyển nước và lá thoát hơi nước",
+    "skill": "g7_b32",
+    "chapter": "Trao đổi chất và chuyển hóa năng lượng",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thí nghiệm chứng minh mạch dẫn và thoát hơi nước ở thực vật."
+      },
+      {
+        "type": "visualization",
+        "title": "TH vận chuyển nước",
+        "content": "Ngâm cành cây có lá trong nước nhuộm, quan sát mạch dẫn.",
+        "visualization": "plant"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Lá thoát hơi nước tạo lực kéo dịch lên thân."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thí nghiệm chứng minh hướng vận chuyển nước."
+      }
+    ]
+  },
+  {
+    "id": "g7_b33",
+    "title": "Bài 33. Cảm ứng ở sinh vật và tập tính ở động vật",
+    "skill": "g7_b33",
+    "chapter": "Cảm ứng ở sinh vật",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Sinh vật phản ứng với kích thích; tập tính bẩm sinh và học được."
+      },
+      {
+        "type": "visualization",
+        "title": "Cảm ứng",
+        "content": "Kích thích → cảm ứng: hướng hóa, nhiễm sắc, phản xạ.",
+        "visualization": "nervous"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cây mọc về phía sáng; mimosa co lá khi chạm."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tập tính: di cư, kiếm ăn theo bản năng hoặc học được."
+      }
+    ]
+  },
+  {
+    "id": "g7_b34",
+    "title": "Bài 34. Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn",
+    "skill": "g7_b34",
+    "chapter": "Cảm ứng ở sinh vật",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Ứng dụng cảm ứng: trồng cây, chăn nuôi, bảo vệ môi trường sống."
+      },
+      {
+        "type": "visualization",
+        "title": "Ứng dụng cảm ứng",
+        "content": "Trồng cây đủ ánh sáng; chăn nuôi trong môi trường phù hợp.",
+        "visualization": "nervous"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Nhà kính điều chỉnh ánh sáng cho rau."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Giảm stress động vật giúp sinh trưởng tốt."
+      }
+    ]
+  },
+  {
+    "id": "g7_b35",
+    "title": "Bài 35. Thực hành: Cảm ứng ở sinh vật",
+    "skill": "g7_b35",
+    "chapter": "Cảm ứng ở sinh vật",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quan sát hướng hóa ánh sáng, phản xạ ở thực vật và động vật."
+      },
+      {
+        "type": "visualization",
+        "title": "TH cảm ứng",
+        "content": "Quan sát hạt mầm cong về ánh sáng.",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Ghi thời gian phản ứng khi chạm lá cây."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh cây trong tối và có ánh sáng một phía."
+      }
+    ]
+  },
+  {
+    "id": "g7_b36",
+    "title": "Bài 36. Khái quát về sinh trưởng và phát triển ở sinh vật",
+    "skill": "g7_b36",
+    "chapter": "Sinh trưởng và phát triển",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Sinh trưởng là tăng kích thước; phát triển là hoàn thiện cấu trúc, chức năng."
+      },
+      {
+        "type": "visualization",
+        "title": "Sinh trưởng phát triển",
+        "content": "Sinh trưởng: tăng số lượng, kích thước tế bào.",
+        "visualization": "plant"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Phát triển: hoàn thiện cấu trúc (ra hoa, chín quả)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Cần dinh dưỡng, nước, ánh sáng phù hợp."
+      }
+    ]
+  },
+  {
+    "id": "g7_b37",
+    "title": "Bài 37. Ứng dụng sinh trưởng và phát triển vào thực tiễn",
+    "skill": "g7_b37",
+    "chapter": "Sinh trưởng và phát triển",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Ứng dụng trong nông nghiệp: chọn giống, bón phân, chăm sóc."
+      },
+      {
+        "type": "visualization",
+        "title": "Ứng dụng sinh trưởng",
+        "content": "Chọn giống tốt, bón phân cân đối, tưới tiêu hợp lý.",
+        "visualization": "plant"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cắt tỉa cành giúp cây ăn quả ra hoa nhiều hơn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thu hoạch đúng thời điểm chín."
+      }
+    ]
+  },
+  {
+    "id": "g7_b38",
+    "title": "Bài 38. Thực hành: Quan sát sinh trưởng và phát triển",
+    "skill": "g7_b38",
+    "chapter": "Sinh trưởng và phát triển",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Ghi nhận sự nảy mầm, ra lá, ra hoa qua thời gian."
+      },
+      {
+        "type": "visualization",
+        "title": "TH sinh trưởng",
+        "content": "Gieo hạt, đo chiều cao mỗi tuần, vẽ biểu đồ.",
+        "visualization": "lab"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Ghi nhận số lá, thời điểm nảy mầm."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "So sánh cây đủ nước và thiếu nước."
+      }
+    ]
+  },
+  {
+    "id": "g7_b39",
+    "title": "Bài 39. Sinh sản vô tính ở sinh vật",
+    "skill": "g7_b39",
+    "chapter": "Sinh sản ở sinh vật",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Sinh sản không qua giao tử; con giống hệt bố mẹ."
+      },
+      {
+        "type": "visualization",
+        "title": "Sinh sản vô tính",
+        "content": "Một cơ thể tạo con không qua giao tử.",
+        "visualization": "reproduction"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Khoai tây mọc mắt; giun đất phân đoạn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Con giống hệt bố mẹ về gen."
+      }
+    ]
+  },
+  {
+    "id": "g7_b40",
+    "title": "Bài 40. Sinh sản hữu tính ở sinh vật",
+    "skill": "g7_b40",
+    "chapter": "Sinh sản ở sinh vật",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Giao tử đực và cái kết hợp; tạo đa dạng gen thế hệ sau."
+      },
+      {
+        "type": "visualization",
+        "title": "Sinh sản hữu tính",
+        "content": "Giao tử đực + cái → hợp tử → phôi.",
+        "visualization": "reproduction"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Hoa: thụ phấn, thụ tinh tạo hạt."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Tạo đa dạng gen thế hệ sau."
+      }
+    ]
+  },
+  {
+    "id": "g7_b41",
+    "title": "Bài 41. Yếu tố ảnh hưởng và điều hòa sinh sản",
+    "skill": "g7_b41",
+    "chapter": "Sinh sản ở sinh vật",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Ánh sáng, nhiệt độ, hormone điều hòa sinh sản ở thực vật và động vật."
+      },
+      {
+        "type": "visualization",
+        "title": "Điều hòa sinh sản",
+        "content": "Ngày dài/ngắn ảnh hưởng ra hoa một số cây.",
+        "visualization": "reproduction"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Hormone điều hòa sinh sản ở động vật."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nhiệt độ ảnh hưởng nảy mầm hạt."
+      }
+    ]
+  },
+  {
+    "id": "g7_b42",
+    "title": "Bài 42. Cơ thể sinh vật là một thể thống nhất",
+    "skill": "g7_b42",
+    "chapter": "Sinh sản ở sinh vật",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Các cơ quan, hệ cơ quan phối hợp trong một cơ thể sống."
+      },
+      {
+        "type": "visualization",
+        "title": "Thể thống nhất",
+        "content": "Tim, phổi, tiêu hóa, thần kinh phối hợp trong cơ thể.",
+        "visualization": "cell"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cây: rễ, thân, lá, hoa cùng phục vụ sinh trưởng sinh sản."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Một cơ quan hỏng ảnh hưởng toàn thể."
+      }
+    ]
+  },
+  {
+    "id": "g8_b30",
+    "title": "Bài 30. Khái quát về cơ thể người",
+    "skill": "g8_b30",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cơ thể người gồm các hệ cơ quan phối hợp; tế bào – mô – cơ quan – hệ cơ quan."
+      },
+      {
+        "type": "visualization",
+        "title": "Cơ thể người",
+        "content": "Các hệ cơ quan phối hợp: tiêu hóa, tuần hoàn, thần kinh...",
+        "visualization": "cell"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Tế bào → mô → cơ quan → hệ cơ quan → cơ thể."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Cơ thể là thể thống nhất sống."
+      }
+    ]
+  },
+  {
+    "id": "g8_b31",
+    "title": "Bài 31. Hệ vận động ở người",
+    "skill": "g8_b31",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Xương, khớp, cơ tạo thành hệ vận động; cơ co duỗi làm xương di chuyển."
+      },
+      {
+        "type": "visualization",
+        "title": "Hệ vận động",
+        "content": "Bộ xương đỡ cơ thể; khớp nối xương; cơ bám xương co duỗi.",
+        "visualization": "animal"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Gập cánh tay: cơ nhị đầu co, cơ tam đầu duỗi."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Vận động cần xương, khớp, cơ phối hợp."
+      }
+    ]
+  },
+  {
+    "id": "g8_b32",
+    "title": "Bài 32. Dinh dưỡng và tiêu hóa ở người",
+    "skill": "g8_b32",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hệ tiêu hóa biến thức ăn thành chất hấp thu; chế độ ăn cân bằng."
+      },
+      {
+        "type": "visualization",
+        "title": "Tiêu hóa",
+        "content": "Miệng nghiền; dạ dày tiêu protein; ruột hấp thu.",
+        "visualization": "digestion"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Enzyme nước bọt, dạ dày, tụy tham gia tiêu hóa."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ăn đủ nhóm thực phẩm, nhai kỹ."
+      }
+    ]
+  },
+  {
+    "id": "g8_b33",
+    "title": "Bài 33. Máu và hệ tuần hoàn của cơ thể người",
+    "skill": "g8_b33",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Máu gồm huyết tương và tế bào máu; tim bơm máu qua mạch máu."
+      },
+      {
+        "type": "visualization",
+        "title": "Tuần hoàn máu",
+        "content": "Tim bơm máu; động mạch đi nuôi cơ quan, tĩnh mạch về tim.",
+        "visualization": "circulation"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Hồng cầu vận chuyển O₂; bạch cầu miễn dịch."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Vận động đều giúp tim khỏe."
+      }
+    ]
+  },
+  {
+    "id": "g8_b34",
+    "title": "Bài 34. Hệ hô hấp ở người",
+    "skill": "g8_b34",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Khí quản, phế nang trao đổi O₂ và CO₂; hô hấp khí và hô hấp tế bào."
+      },
+      {
+        "type": "visualization",
+        "title": "Hô hấp",
+        "content": "Không khí qua phế quản đến phế nang; khí diffuses vào máu.",
+        "visualization": "respiration"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Chạy nhanh → thở gấp vì cần nhiều O₂."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không hút thuốc — bảo vệ phổi."
+      }
+    ]
+  },
+  {
+    "id": "g8_b35",
+    "title": "Bài 35. Hệ bài tiết ở người",
+    "skill": "g8_b35",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thận lọc máu, tạo nước tiểu; loại chất thải và cân bằng nước."
+      },
+      {
+        "type": "visualization",
+        "title": "Hệ bài tiết",
+        "content": "Thận lọc máu tạo nước tiểu; loại ure, acid uric.",
+        "visualization": "digestion"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Uống đủ nước giúp thận hoạt động tốt."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Giữ vệ sinh, tránh giữ nước tiểu lâu."
+      }
+    ]
+  },
+  {
+    "id": "g8_b36",
+    "title": "Bài 36. Điều hòa môi trường trong của cơ thể người",
+    "skill": "g8_b36",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cơ thể duy trì nhiệt độ, pH, nồng độ glucose ổn định."
+      },
+      {
+        "type": "visualization",
+        "title": "Nội môi trường",
+        "content": "Cơ thể duy trì nhiệt độ ~37°C, glucose, pH ổn định.",
+        "visualization": "circulation"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Đói → hạ đường huyết; ăn điều hòa lại."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Thận, gan, hormone phối hợp điều hòa."
+      }
+    ]
+  },
+  {
+    "id": "g8_b37",
+    "title": "Bài 37. Hệ thần kinh và các giác quan ở người",
+    "skill": "g8_b37",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Não, tủy sống, dây thần kinh; giác quan tiếp nhận kích thích."
+      },
+      {
+        "type": "visualization",
+        "title": "Thần kinh",
+        "content": "Não điều khiển; tủy truyền xung; dây thần kinh dẫn tín hiệu.",
+        "visualization": "nervous"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Phản xạ gập tay khi chạm nóng."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Giác quan: mắt, tai, mũi, lưỡi, da."
+      }
+    ]
+  },
+  {
+    "id": "g8_b38",
+    "title": "Bài 38. Hệ nội tiết ở người",
+    "skill": "g8_b38",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tuyến nội tiết tiết hormone điều hòa trao đổi chất, sinh trưởng."
+      },
+      {
+        "type": "visualization",
+        "title": "Nội tiết",
+        "content": "Hormone đi theo máu tác dụng cơ quan đích.",
+        "visualization": "nervous"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Insulin hạ glucose; tuyến giáp điều hòa trao đổi."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Mất cân bằng hormone gây bệnh."
+      }
+    ]
+  },
+  {
+    "id": "g8_b39",
+    "title": "Bài 39. Da và điều hòa thân nhiệt ở người",
+    "skill": "g8_b39",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Da bảo vệ, cảm giác; mồ hôi và mạch máu giúp điều hòa nhiệt."
+      },
+      {
+        "type": "visualization",
+        "title": "Da và nhiệt",
+        "content": "Da bảo vệ, cảm giác; mồ hôi bay hơi làm mát.",
+        "visualization": "respiration"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Trời nóng → đỏ da, đổ mồ hôi."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Mặc phù hợp, uống nước khi nóng."
+      }
+    ]
+  },
+  {
+    "id": "g8_b40",
+    "title": "Bài 40. Sinh sản ở người",
+    "skill": "g8_b40",
+    "chapter": "Sinh học cơ thể người",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Cơ quan sinh sản; thụ tinh, thai kỳ và chăm sóc sức khỏe sinh sản."
+      },
+      {
+        "type": "visualization",
+        "title": "Sinh sản",
+        "content": "Cơ quan sinh dục nam/nữ; thụ tinh tạo hợp tử.",
+        "visualization": "reproduction"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Thai nhi phát triển trong tử cung."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Vệ sinh, tư vấn sức khỏe sinh sản THCS."
+      }
+    ]
+  },
+  {
+    "id": "g8_b41",
+    "title": "Bài 41. Môi trường và các nhân tố sinh thái",
+    "skill": "g8_b41",
+    "chapter": "Sinh vật và môi trường",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Môi trường sống; nhân tố vô sinh và hữu sinh ảnh hưởng sinh vật."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhân tố sinh thái",
+        "content": "Vô sinh: ánh sáng, nước, nhiệt; hữu sinh: kẻ săn mồi, cạnh tranh.",
+        "visualization": "ecosystem"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cây thiếu nước → héo; thiếu sáng → vàng lá."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Môi trường quyết định sinh trưởng."
+      }
+    ]
+  },
+  {
+    "id": "g8_b42",
+    "title": "Bài 42. Quần thể sinh vật",
+    "skill": "g8_b42",
+    "chapter": "Sinh vật và môi trường",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quần thể: cá thể cùng loài trong không gian; mật độ, cơ cấu tuổi."
+      },
+      {
+        "type": "visualization",
+        "title": "Quần thể",
+        "content": "Mật độ = số cá thể / diện tích; cơ cấu tuổi, giới.",
+        "visualization": "ecosystem"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Quần thể ếch trong ao giảm do ô nhiễm."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Theo dõi quần thể phục vụ bảo tồn."
+      }
+    ]
+  },
+  {
+    "id": "g8_b43",
+    "title": "Bài 43. Quần xã sinh vật",
+    "skill": "g8_b43",
+    "chapter": "Sinh vật và môi trường",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Quần xã: nhiều quần thể cùng sống trong một không gian."
+      },
+      {
+        "type": "visualization",
+        "title": "Quần xã",
+        "content": "Nhiều loài cùng sống: cây, động vật, vi sinh.",
+        "visualization": "ecosystem"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Rừng nhiệt đới: quần xã phong phú."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Quan hệ cạnh tranh, hộ sinh trong quần xã."
+      }
+    ]
+  },
+  {
+    "id": "g8_b44",
+    "title": "Bài 44. Hệ sinh thái",
+    "skill": "g8_b44",
+    "chapter": "Sinh vật và môi trường",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thành phần vô sinh, sinh vật và luồng năng lượng, vật chất."
+      },
+      {
+        "type": "visualization",
+        "title": "Hệ sinh thái",
+        "content": "Sinh vật + môi trường vô sinh; chuỗi và lưới thức ăn.",
+        "visualization": "ecosystem"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cỏ → châu chấu → ếch → rắn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Năng lượng giảm qua các bậc."
+      }
+    ]
+  },
+  {
+    "id": "g8_b45",
+    "title": "Bài 45. Sinh quyển",
+    "skill": "g8_b45",
+    "chapter": "Sinh vật và môi trường",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Sinh quyển gồm sinh vật và môi trường sống trên Trái Đất."
+      },
+      {
+        "type": "visualization",
+        "title": "Sinh quyển",
+        "content": "Lớp sống trên Trái Đất: đất liền, nước, không khí.",
+        "visualization": "environment"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Đại dương chiếm phần lớn sinh quyển."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Con người ảnh hưởng mạnh sinh quyển."
+      }
+    ]
+  },
+  {
+    "id": "g8_b46",
+    "title": "Bài 46. Cân bằng tự nhiên",
+    "skill": "g8_b46",
+    "chapter": "Sinh vật và môi trường",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Hệ sinh thái tự điều chỉnh; mối quan hệ cạnh tranh, hộ sinh, ký sinh."
+      },
+      {
+        "type": "visualization",
+        "title": "Cân bằng tự nhiên",
+        "content": "Số lượng sinh vật dao động quanh mức ổn định.",
+        "visualization": "environment"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Sói ăn thỏ → kiểm soát quần thể thỏ."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Phá vỡ cân bằng → hậu quả xấu."
+      }
+    ]
+  },
+  {
+    "id": "g8_b47",
+    "title": "Bài 47. Bảo vệ môi trường",
+    "skill": "g8_b47",
+    "chapter": "Sinh vật và môi trường",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Ô nhiễm, biến đổi khí hậu; hành động bảo vệ thiên nhiên bền vững."
+      },
+      {
+        "type": "visualization",
+        "title": "Bảo vệ môi trường",
+        "content": "Giảm rác nhựa, tiết kiệm năng lượng, trồng cây.",
+        "visualization": "environment"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Tái chế giảm rác thải."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Phát triển bền vững gắn trách nhiệm cá nhân."
+      }
+    ]
+  },
+  {
+    "id": "g9_b36",
+    "title": "Bài 36. Khái quát về di truyền học",
+    "skill": "g9_b36",
+    "chapter": "Di truyền học Mendel – Cơ sở phân tử",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tính trạng, gen, kiểu gen, kiểu hình; di truyền là truyền thông tin từ đời này sang đời khác."
+      },
+      {
+        "type": "visualization",
+        "title": "Di truyền học",
+        "content": "Tính trạng do gen và môi trường; thông tin di truyền qua thế hệ.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Màu hạt đậu xanh/tím là tính trạng Mendel nghiên cứu."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Gen quy định tính trạng (sơ lược)."
+      }
+    ]
+  },
+  {
+    "id": "g9_b37",
+    "title": "Bài 37. Các quy luật di truyền của Mendel",
+    "skill": "g9_b37",
+    "chapter": "Di truyền học Mendel – Cơ sở phân tử",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Luật phân ly và luật phân ly độc lập; lai một và hai cặp tính trạng (sơ lược)."
+      },
+      {
+        "type": "visualization",
+        "title": "Luật Mendel",
+        "content": "Phân ly: Aa → A, a; phân ly độc lập với hai cặp gen.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Lai Aa × Aa → tỷ lệ kiểu hình 3:1 (sơ lược)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Dùng bảng Punnett dự đoán con."
+      }
+    ]
+  },
+  {
+    "id": "g9_b38",
+    "title": "Bài 38. Nucleic acid và gene",
+    "skill": "g9_b38",
+    "chapter": "Di truyền học Mendel – Cơ sở phân tử",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "ADN, ARN; gene là đoạn ADN mã hóa polypeptide hoặc ARN."
+      },
+      {
+        "type": "visualization",
+        "title": "ADN và gene",
+        "content": "ADN xoắn kép; A–T, G–C; gene là đoạn ADN có ý nghĩa.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Một gene có thể mã hóa một chuỗi amino acid."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "ARN tham gia biểu hiện gen."
+      }
+    ]
+  },
+  {
+    "id": "g9_b39",
+    "title": "Bài 39. Tái bản DNA và phiên mã tạo RNA",
+    "skill": "g9_b39",
+    "chapter": "Di truyền học Mendel – Cơ sở phân tử",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nhân đôi ADN bán bảo tồn; phiên mã tạo mARN từ gene."
+      },
+      {
+        "type": "visualization",
+        "title": "Tái bản và phiên mã",
+        "content": "ADN → ADN (tái bản); ADN → mARN (phiên mã).",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Trước phân chia tế bào ADN nhân đôi."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "mARN mang thông tin từ nhân ra tế bào chất."
+      }
+    ]
+  },
+  {
+    "id": "g9_b40",
+    "title": "Bài 40. Dịch mã và mối quan hệ từ gene đến tính trạng",
+    "skill": "g9_b40",
+    "chapter": "Di truyền học Mendel – Cơ sở phân tử",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "mARN → protein; tính trạng phụ thuộc gen và môi trường."
+      },
+      {
+        "type": "visualization",
+        "title": "Dịch mã",
+        "content": "mARN → protein tại ribosome; bộ ba mã hóa amino acid.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Đột biến gen có thể đổi amino acid → đổi protein."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Kiểu hình = gen + môi trường."
+      }
+    ]
+  },
+  {
+    "id": "g9_b41",
+    "title": "Bài 41. Đột biến gene",
+    "skill": "g9_b41",
+    "chapter": "Di truyền học Mendel – Cơ sở phân tử",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đột biến gen thay đổi trình tự nucleotide; có thể ảnh hưởng protein."
+      },
+      {
+        "type": "visualization",
+        "title": "Đột biến gen",
+        "content": "Thay đổi nucleotide: thay thế, thêm, mất.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Có thể vô hại, có lợi hoặc gây bệnh."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Nguồn đa dạng gen cho tiến hóa."
+      }
+    ]
+  },
+  {
+    "id": "g9_b42",
+    "title": "Bài 42. Nhiễm sắc thể và bộ nhiễm sắc thể",
+    "skill": "g9_b42",
+    "chapter": "Di truyền nhiễm sắc thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "NST mang gen; bộ NST đặc trưng loài; 2n và n (sơ lược)."
+      },
+      {
+        "type": "visualization",
+        "title": "Nhiễm sắc thể",
+        "content": "NST cấu trúc gen; người 2n = 46 NST.",
+        "visualization": "cell"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Bộ NST đặc trưng loài."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Gen nằm trên NST."
+      }
+    ]
+  },
+  {
+    "id": "g9_b43",
+    "title": "Bài 43. Nguyên phân và giảm phân",
+    "skill": "g9_b43",
+    "chapter": "Di truyền nhiễm sắc thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Nguyên phân: 2n → 2n; giảm phân: 2n → n cho giao tử."
+      },
+      {
+        "type": "visualization",
+        "title": "Nguyên phân – giảm phân",
+        "content": "Nguyên phân: sinh trưởng/sửa chữa; giảm phân: tạo giao tử n.",
+        "visualization": "reproduction"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Giao tử 23 NST → hợp tử 46 NST."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Giảm phân đảm bảo 2n qua thế hệ."
+      }
+    ]
+  },
+  {
+    "id": "g9_b44",
+    "title": "Bài 44. Nhiễm sắc thể giới tính và xác định giới tính",
+    "skill": "g9_b44",
+    "chapter": "Di truyền nhiễm sắc thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "XX, XY (người); cơ chế xác định giới tính."
+      },
+      {
+        "type": "visualization",
+        "title": "Giới tính",
+        "content": "Người XX nữ, XY nam; gen trên NST giới tính.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Cơ chế xác định giới tính khác nhau giữa loài."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Di truyền giới tính liên quan NST."
+      }
+    ]
+  },
+  {
+    "id": "g9_b45",
+    "title": "Bài 45. Di truyền liên kết",
+    "skill": "g9_b45",
+    "chapter": "Di truyền nhiễm sắc thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Gen trên cùng NST thường di truyền liên kết."
+      },
+      {
+        "type": "visualization",
+        "title": "Liên kết gen",
+        "content": "Gen gần nhau trên NST di truyền cùng nhau.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Khác luật phân ly độc lập khi gen liên kết."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Hoán vị gen làm tách li kết (sơ lược)."
+      }
+    ]
+  },
+  {
+    "id": "g9_b46",
+    "title": "Bài 46. Đột biến nhiễm sắc thể",
+    "skill": "g9_b46",
+    "chapter": "Di truyền nhiễm sắc thể",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Thừa, thiếu, đảo đoạn NST; hậu quả sơ lược."
+      },
+      {
+        "type": "visualization",
+        "title": "Đột biến NST",
+        "content": "Thừa/thiếu bộ NST hoặc đoạn NST.",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Down: thừa NST 21 (sơ lược)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Ảnh hưởng lớn đến kiểu hình."
+      }
+    ]
+  },
+  {
+    "id": "g9_b47",
+    "title": "Bài 47. Di truyền học với con người",
+    "skill": "g9_b47",
+    "chapter": "Di truyền học với con người và đời sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Bệnh di truyền; tư vấn di truyền và phòng bệnh."
+      },
+      {
+        "type": "visualization",
+        "title": "Di truyền người",
+        "content": "Bệnh di truyền: hemophilia, mù màu (sơ lược).",
+        "visualization": "genetics"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Tư vấn di truyền trước sinh."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Không kỳ thị người khuyết tật."
+      }
+    ]
+  },
+  {
+    "id": "g9_b48",
+    "title": "Bài 48. Ứng dụng công nghệ di truyền vào đời sống",
+    "skill": "g9_b48",
+    "chapter": "Di truyền học với con người và đời sống",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "ADN tái tổ hợp, vắc-xin, chọn giống; đạo đức công nghệ gen."
+      },
+      {
+        "type": "visualization",
+        "title": "Công nghệ gen",
+        "content": "ADN tái tổ hợp, insulin, vắc-xin, chọn giống.",
+        "visualization": "biotechnology"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Chọn lọc phôi IVF (đạo đức)."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Lợi ích và rủi ro cần cân nhắc."
+      }
+    ]
+  },
+  {
+    "id": "g9_b49",
+    "title": "Bài 49. Khái niệm tiến hóa và các hình thức chọn lọc",
+    "skill": "g9_b49",
+    "chapter": "Tiến hóa",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Tiến hóa là thay đổi loài qua thời gian; chọn lọc tự nhiên, nhân tạo."
+      },
+      {
+        "type": "visualization",
+        "title": "Tiến hóa",
+        "content": "Quần thể thay đổi allele qua thời gian.",
+        "visualization": "evolution"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Chọn lọc tự nhiên: cá thể thích nghi sống sót hơn."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Chọn lọc nhân tạo: giống cây, vật nuôi."
+      }
+    ]
+  },
+  {
+    "id": "g9_b50",
+    "title": "Bài 50. Cơ chế tiến hóa",
+    "skill": "g9_b50",
+    "chapter": "Tiến hóa",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Đột biến, giao phối, chọn lọc tạo nên tiến hóa."
+      },
+      {
+        "type": "visualization",
+        "title": "Cơ chế tiến hóa",
+        "content": "Đột biến tạo biến dị; chọn lọc giữ allele có lợi.",
+        "visualization": "evolution"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Kháng thuốc vi khuẩn là chọn lọc tự nhiên."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Cách ly sinh sản tạo loài mới (sơ lược)."
+      }
+    ]
+  },
+  {
+    "id": "g9_b51",
+    "title": "Bài 51. Sự phát sinh và phát triển của sự sống trên Trái Đất",
+    "skill": "g9_b51",
+    "chapter": "Tiến hóa",
+    "source": "Bám mạch SGK Khoa học tự nhiên / Sinh học THCS – Kết nối tri thức với cuộc sống, nội dung tự biên soạn.",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu vi kỹ năng",
+        "content": "Sự sống xuất hiện từ hàng tỷ năm trước; phát triển từ đơn giản đến phức tạp."
+      },
+      {
+        "type": "visualization",
+        "title": "Nguồn gốc sự sống",
+        "content": "Sự sống hình thành từ hàng tỷ năm trước.",
+        "visualization": "evolution"
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ từ SGK",
+        "content": "Hóa thạch chứng minh tiến hóa."
+      },
+      {
+        "type": "summary",
+        "title": "Ghi nhớ nhanh",
+        "content": "Từ sinh vật đơn giản → phức tạp."
+      }
+    ]
+  }
+]
