@@ -1,4 +1,4 @@
-const CACHE_NAME = "bioflow-vn-v5";
+const CACHE_NAME = "bioflow-vn-v6";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -32,7 +32,8 @@ const APP_SHELL = [
   "./data/skills.json",
   "./data/lessons.json",
   "./data/questions.json",
-  "./data/errors.json"
+  "./data/errors.json",
+  "./data/exercises.json"
 ];
 
 self.addEventListener("install", (event) => {
