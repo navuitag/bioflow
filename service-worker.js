@@ -1,4 +1,4 @@
-const CACHE_NAME = "bioflow-vn-v7";
+const CACHE_NAME = "bioflow-vn-v8";
 const APP_SHELL = [
   "./",
   "./index.html",
