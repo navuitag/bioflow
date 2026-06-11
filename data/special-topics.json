@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Chuyên đề Sinh học",
+    "subtitle": "7 sơ đồ chuyên đề — xem trực tiếp trên hệ thống",
+    "topicCount": 7,
+    "source": "Bộ tài liệu chuyên đề trong thư mục special-topic/"
+  },
+  "overviews": [],
+  "categories": [
+    {
+      "id": "cell",
+      "title": "Tế bào",
+      "emoji": "🔬"
+    },
+    {
+      "id": "organisms",
+      "title": "Sinh vật",
+      "emoji": "🌿"
+    },
+    {
+      "id": "genetics_ecology",
+      "title": "Di truyền & sinh thái",
+      "emoji": "🧬"
+    },
+    {
+      "id": "synthesis",
+      "title": "Tổng hợp",
+      "emoji": "📊"
+    }
+  ],
+  "topics": [
+    {
+      "id": "cd01",
+      "order": 1,
+      "code": "CD01",
+      "title": "Tế bào, cấu tạo tế bào",
+      "slug": "Te-bao-Cau-tao-te-bao",
+      "category": "cell",
+      "categoryTitle": "Tế bào",
+      "pdf": null,
+      "image": "special-topic/01.Te-bao-Cau-tao-te-bao.png"
+    },
+    {
+      "id": "cd02",
+      "order": 2,
+      "code": "CD02",
+      "title": "Thực vật",
+      "slug": "Thuc-vat",
+      "category": "organisms",
+      "categoryTitle": "Sinh vật",
+      "pdf": null,
+      "image": "special-topic/02.Thuc-vat.png"
+    },
+    {
+      "id": "cd03",
+      "order": 3,
+      "code": "CD03",
+      "title": "Động vật",
+      "slug": "Dong-vat",
+      "category": "organisms",
+      "categoryTitle": "Sinh vật",
+      "pdf": null,
+      "image": "special-topic/03.Dong-vat.png"
+    },
+    {
+      "id": "cd04",
+      "order": 4,
+      "code": "CD04",
+      "title": "Cơ thể người",
+      "slug": "Co-the-nguoi",
+      "category": "organisms",
+      "categoryTitle": "Sinh vật",
+      "pdf": null,
+      "image": "special-topic/04.Co-the-nguoi.png"
+    },
+    {
+      "id": "cd05",
+      "order": 5,
+      "code": "CD05",
+      "title": "Di truyền học",
+      "slug": "Di-truyen-hoc",
+      "category": "genetics_ecology",
+      "categoryTitle": "Di truyền & sinh thái",
+      "pdf": null,
+      "image": "special-topic/05.Di-truyen-hoc.png"
+    },
+    {
+      "id": "cd06",
+      "order": 6,
+      "code": "CD06",
+      "title": "Sinh thái học",
+      "slug": "Sinh-thai-hoc",
+      "category": "genetics_ecology",
+      "categoryTitle": "Di truyền & sinh thái",
+      "pdf": null,
+      "image": "special-topic/06.Sinh-thai-hoc.png"
+    },
+    {
+      "id": "cd07",
+      "order": 7,
+      "code": "CD07",
+      "title": "Bài toán tổng hợp",
+      "slug": "Bai-toan-tong-hop",
+      "category": "synthesis",
+      "categoryTitle": "Tổng hợp",
+      "pdf": null,
+      "image": "special-topic/07.Bai-toan-tong-hop.png"
+    }
+  ]
+}
