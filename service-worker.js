@@ -1,4 +1,4 @@
-const CACHE_NAME = "bioflow-vn-v12";
+const CACHE_NAME = "bioflow-vn-v13";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -14,6 +14,9 @@ const APP_SHELL = [
   "./assets/js/state.js",
   "./assets/js/profileStore.js",
   "./assets/js/studyTime.js",
+  "./assets/js/edtechApps.js",
+  "./components/edtechHub.js",
+  "./assets/css/edtech-hub.css",
   "./assets/js/utils.js",
   "./vendor/three.module.min.js",
   "./vendor/OrbitControls.js",
