@@ -47,3 +47,11 @@ node scripts/generate-all.mjs           # Toàn bộ lớp 6–9 (84 bài)
 ```
 
 Giao diện dùng cùng bảng màu với [PhyFlow](../phyflow) và [MathFlow](../mathflow) (`#20a36b`, nền `#f7fbff`).
+
+---
+
+## Tác giả
+
+- **Nguyễn Anh Vũ**
+- Email: [navuitag@gmail.com](mailto:navuitag@gmail.com)
+- Điện thoại: [0986201079](tel:+84986201079)
