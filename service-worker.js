@@ -1,4 +1,4 @@
-const CACHE_NAME = "bioflow-vn-v17";
+const CACHE_NAME = "bioflow-vn-v$(( $(echo 17) + 1 ))";
 const APP_SHELL = [
   "./",
   "./index.html",
